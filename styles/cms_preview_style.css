@@ -1,0 +1,67 @@
+/* Common CSS */
+.cms_preview_overflow, .cms_preview_overflow > div {
+	overflow:visible !important;
+}
+.videoSlider .slides{background-color:#FFFFFF;}
+.videoModal .modal-body .iw_component{margin:0;}
+#modal .modal-body .iw_component{margin:0; float:none;}
+.videoModal #mediaplayer span{display:block !important;}
+.youAre{clear:both;}
+.youAre .cust_landing .grey_text{color:#5E5E5E;}
+.mainContainArea,
+.ls-canvas .ls-area-body{overflow:visible !important;}
+.selectBox{
+	top:14px;
+	left:10px;
+}
+.hemostatProducsilder .slides .top.align_left{padding-left:8px;}
+#heamoSlider .slides .block h2 > p{padding:0 !important; margin:0 !important;}
+.downloadBox ul li a{
+    display: block;
+    min-width: 170px;
+    overflow: hidden;
+    position: relative;
+}
+.tabSwichView .paginations .prev{padding:0;}
+
+.modal-body .iw_component,
+.modal-body-static .iw_component{margin:0 !important;}
+.modal-body, .modal-body-static{overflow-x:hidden;}
+.modal-header .categoryType{margin-bottom:5px;}
+.modal-header h3{line-height:1.2em;}
+@media (min-width: 321px) and (max-width: 360px){
+	.hemostatProducsilder .scroll li{
+		width:276px;
+	}
+}
+@media (min-width: 481px) and (max-width: 640px){
+	.hemostatProducsilder .scroll li{
+		width:178px;
+	}
+	
+}
+#_containerObject0{padding:0 !important;}
+.productDetailsHead .selectQty.single{display:none !important;}
+/* /Common CSS */
+
+/* CSS Updated 15-11-2013 by Lokesh start */
+/*.mainContainerBg .ls-canvas .ls-col-body{overflow: visible!important;}
+.mainContainerBg .ls-canvas .ls-col{overflow: visible!important;}*/
+/* CSS Updated 15-11-2013 by Lokesh start */
+#product_wrapper .ls-col,
+#product_wrapper .ls-col-body{overflow: visible !important;}
+
+.clinicalBlock h3 a{white-space:nowrap;}
+.clinicalBlock p{
+	font-family: Helvetica, Arial, sans-serif;	
+	font-size: 1.2em;
+	font-weight:bold;
+}
+.hemostatProducsilder .slides .top{padding:8px;}
+.hemostatProducsilder .slides .top img{position:inherit; top:0; left:0;}
+.scrollable.default-skin{padding-right:0 !important;}
+
+/*added by sindhu for synovismicro CI change request */
+.ls-canvas .ls-col{overflow:visible !important;}
+.ls-canvas .ls-col-body{overflow:visible !important;}
+.ls-canvas .ls-area{overflow:visible !important;}
