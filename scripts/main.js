@@ -312,22 +312,22 @@ if($(".sitemap-content").length>0)
 	if($('.slider1').length>0){
 			$('.slider1').slick({
 				autoplay: true,
-				autoplaySpeed:7000,
+				autoplaySpeed: 7000,
 			  dots: true,
 			  infinite: true,
 			  speed: 1100,
 			  slidesToShow: 1,
 			  slidesToScroll: 1,
 			  responsive: [
-					{
-						breakpoint: 6024,
-						settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1,
-						infinite: true,
-						dots: true
-						}
-					},
+				{
+					breakpoint: 6024,
+					settings: {
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					infinite: true,
+					dots: true
+					}
+				},
 				{
 				  breakpoint: 6024,
 				  settings: {
