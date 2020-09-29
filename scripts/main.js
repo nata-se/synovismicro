@@ -312,7 +312,7 @@ if($(".sitemap-content").length>0)
 	if($('.slider1').length>0){
 			$('.slider1').slick({
 				autoplay: true,
-				autoplaySpeed: 7000,
+				autoplaySpeed: 11000,
 			  dots: true,
 			  infinite: true,
 			  speed: 1100,
