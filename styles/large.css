@@ -1840,11 +1840,11 @@ padding-top: 15px;
 	width:100%;
 }
 .contact-email {
-	width:470px;
+	width:670px;
 	margin-top:35px;
 }
 .contact {
-	width:470px;
+	width:656px;
 }
 
 .contact-align {
@@ -1852,7 +1852,7 @@ padding-top: 15px;
 }
 
 .txtarea_field{
-	width:470px;
+	width:650px;
 
 }
 .contact-prdinfo-btn {
@@ -1860,8 +1860,9 @@ padding-top: 15px;
 	
 }
 .contact-email .state .sect-box select.cal-select-contact {
-	width:470px;
+	width:630px;
 }
+
 
 /*---------------------------------------CONTACT US PAGE STYLES END ------------------------------*/
 /*------------------------------------------PRIVACY POLICY STYLES START-----------------------------*/
