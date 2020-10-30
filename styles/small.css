@@ -1178,6 +1178,7 @@ margin-left:8px !important;
 .section-text .menu li {
 	list-style-type:disc;
 	 padding-top: 2px;
+	 
 } 
 
 .disclaimer-text p {
@@ -1427,13 +1428,14 @@ display:none;
     font-size: 1em;
     line-height: 22px;
     list-style-type: circle;
-                list-style-position:inside;
+    list-style-position:inside;
     padding-bottom: 4px;
-                  margin-left: 10px;  
+     margin-left: 10px;  
 
 }
 .right-text .menu li ul {
 padding-top:4px;
+margin-left: 20px;
 }
 
 #tab1-content

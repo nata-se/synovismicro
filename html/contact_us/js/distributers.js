@@ -2048,11 +2048,11 @@ window.distributes = [
 		country_code: "IE",
 		service_regions:  ["IE"],		
 
-		disptributer_name: "Glen Waite",
+		disptributer_name: "Jamie Atkins",
 		contact: "Severn",
 		disptributer_territory: "",
 		address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
-		email: "glen.waite@severnhealthcare.com",
+		email: "jamie.atkins@severnhealthcare.com",
 		phone: "",
 		fax: "",
 		web_site: "",
