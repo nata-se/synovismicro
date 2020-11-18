@@ -628,7 +628,7 @@ overflow: hidden;
 margin: 10px 18px 15px 20px;
 
 }
-.row .arrow_box_team{
+ .arrow_box_team{
 position: relative;
 background: #ffffff;
 border: 0px solid #9F9F9F;
@@ -636,6 +636,9 @@ overflow: hidden;
 margin: 10px 18px 15px 20px;
 
 }
+
+
+
 
 .bio{
     display: block;
@@ -771,7 +774,7 @@ padding:10px;
 display:block;
 position: relative;
 cursor: pointer;
-width:290px;
+width:302px;
 }
 
 .sec1-col2{margin: 10px 18px 15px 20px;}

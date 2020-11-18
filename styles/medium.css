@@ -476,14 +476,14 @@ display: none;
 	letter-spacing:0px;
 }
 .sec1-col1{
-	border: 1px solid #a1a1a1;
+	/* border: 1px solid #a1a1a1; */
 	/*margin: 15px 0 15px;*/
 	padding:10px;
 	float: left;
 	margin: 15px 30px 0px 0px;
 }
 .sec1-col1{
-	width: 290px;
+	width: 320px;
 	margin: 10px 18px 15px 20px;	
 	flex: 1;
 }

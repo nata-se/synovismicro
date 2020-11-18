@@ -2038,7 +2038,7 @@ window.distributes = [
 		disptributer_territory: "",
 		address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
 		email: "jamie.atkins@severnhealthcare.com",
-		phone: "",
+		phone: "01635887640",
 		fax: "",
 		web_site: "",
 		image: "/images/rep_img/severn.jpg"	
@@ -2053,7 +2053,7 @@ window.distributes = [
 		disptributer_territory: "",
 		address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
 		email: "jamie.atkins@severnhealthcare.com",
-		phone: "",
+		phone: "01635887640",
 		fax: "",
 		web_site: "",
 		image: "/images/rep_img/severn.jpg"	
