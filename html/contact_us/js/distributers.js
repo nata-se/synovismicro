@@ -1728,13 +1728,12 @@ window.distributes = [
 		country_code: "AR",
 		service_regions:  ["AR"],		
 
-		disptributer_name: "Lucrecia Ungaro",
+		disptributer_name: "Pablo Jose Garcia",
 		contact: "Cirugia de Avanzada S.R.L.",
 		disptributer_territory: "",
-		address:"Hipolito Irgoyen 4230, Buenos Aires, 1212",
-		email: "info@cirugiadeavanzada.com",
-		phone: "4981-1478",
-		fax: "4981-2018",
+		address:"Av. Hipólito Yrigoyen 4230, C1212 ACN, Buenos Aires, Argentina",
+		email: "pgarcia@cirugiadeavanzada.com",
+		phone: "+54 11 4981-1478",
 		web_site: "http://www.cirugiadeavanzada.com",
 		image: "/images/rep_img/cirugia.jpg"	
 	},
@@ -2110,7 +2109,6 @@ window.distributes = [
 	},
 
 
-
 	{
 		country_name: "Japan",
 		country_code: "JP",
@@ -2125,7 +2123,24 @@ window.distributes = [
 		fax: "",
 		web_site: "",
 		image: "/images/rep_image.jpg"	
+	},
+
+	{
+		country_name: "Switzerland",
+		country_code: "CH",
+		service_regions:  ["CH"],		
+
+		disptributer_name: "TapMed",
+		contact: "",
+		disptributer_territory: "",
+		address:"Gumprechtstrasse 33 · 6376 Emmetten",
+		email: "komori@wonderworks.co.jp",
+		phone: "+41 41 520 60 88",
+		fax: "",
+		web_site: "www.tapmed-swiss.ch",
+		image: "/images/rep_img/tapmed.jpg"	
 	}
+
 
 	
 ];
