@@ -715,6 +715,14 @@ div .product-col1 .sec1-col2.arrow_box{
 }
 
 /* footer */
+svg {
+	width: 25px;
+	height: 25px;
+  }
+  svg:hover {
+	fill: red;
+  }
+  
 .footer{
 padding:17px 0 ;
 }

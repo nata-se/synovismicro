@@ -923,6 +923,14 @@ float: left;
 
 
 /* footer */
+svg {
+	width: 25px;
+	height: 25px;
+  }
+  svg:hover {
+	fill: red;
+  }
+  
 .footer{
 width: 100%;
 background: #f59331;
@@ -3264,7 +3272,7 @@ contact-align input[type="checkbox" i]  {
 	width:95%;
 }
 .contact-email .prod-row {
-	margin-top:25px;
+	margin-top: 25px;
 }
 .contact-email .sect-box {
 	margin-top:6px;

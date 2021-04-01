@@ -740,6 +740,16 @@ ul.nav-top{
     
 
 /* footer */
+
+svg {
+	width: 25px;
+	height: 25px;
+  }
+  svg:hover {
+	fill: red;
+  }
+  
+
 .footer{
 padding:21px 0 ;
 }
