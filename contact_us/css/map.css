@@ -1,0 +1,46 @@
+.distributer-info {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: .5rem 0 1.5rem;
+  margin: -.5rem;
+}
+
+.distributer-info .distributer-image {
+  flex-grow: 0;
+  margin: .5rem;
+}
+
+.distributer-info .distributer-data {
+  flex-grow: 1;
+  margin: .5rem;
+  max-width: 60%;  
+}
+
+.distributer-info .distributer-data div {
+  color: rgb(125, 125, 125);
+  font-size: 14px;
+  margin: 1rem 0;
+  line-height: 1em;
+}
+
+.distributer-info .distributer-data .title {
+  font-size: 1.125em;
+  color: #61a6d7;
+  line-height: 22px;
+  margin: 0px;
+}
+.distributer-info .distributer-data .territory {
+  font-size: 0.9em;
+  color: #30bcb7;
+  line-height: 1em;
+  margin: 0px;
+}
+
+.distributer-info .distributer-data a {
+  color: rgb(250, 175, 42);
+  font-weight: 700;
+  font-size: 1em;
+  text-decoration: none;
+}

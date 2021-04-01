@@ -715,13 +715,22 @@ div .product-col1 .sec1-col2.arrow_box{
 }
 
 /* footer */
-svg {
+
+.footerIcon {
+	display: inline-block;
 	width: 25px;
 	height: 25px;
+	background-size: cover;
+	position: relative;
   }
-  svg:hover {
-	fill: red;
+  .icon-youtube {
+	background-image: url(/images/logo-youtube.svg);
   }
+  .icon-youtube:hover,
+  .icon-youtube:focus {
+	background-image: url(/images/logo-youtube-red.svg);
+  }
+  
   
 .footer{
 padding:17px 0 ;
