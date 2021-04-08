@@ -773,6 +773,25 @@ margin-bottom:20px;
 
 }
 
+/*--------------------------------------------Biover page Styles Start------------------------------------------------------- */
+
+.biover-left{
+	width: 50%;
+	padding: 12px;
+	margin: 15px;
+	display:inline-block;
+	margin-top: 50px;
+
+	 
+}
+
+.biover-right{
+	width: 50%;
+	padding: 12px;
+	margin: 15px;
+	display:inline-block;
+	margin-top: 50px;
+}
 
 
 /*------------------------------------------About-us Styles Start--------------------------------- */
