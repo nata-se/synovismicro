@@ -1674,6 +1674,21 @@ window.distributes = [
 		web_site: "http://kingsungmedical.com/",
 		image: "/images/rep_img/kingsung.jpg"	
 	},
+	{
+		country_name: "China",
+		country_code: "CN",
+		service_regions:  ["CN"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
+	},
 
 	{
 		country_name: "Saudi Arabia",
@@ -1689,6 +1704,21 @@ window.distributes = [
 		fax: "966(12) 653 2789",
 		web_site: "http://nozhamedical.com/",
 		image: "/images/rep_img/Al-Nozha.jpg"	
+	},
+	{
+		country_name: "Saudi Arabia",
+		country_code: "SA",
+		service_regions:  ["SA"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
 	},
 
 	{
@@ -1706,6 +1736,21 @@ window.distributes = [
 		web_site: "https://www.assuteurope.com/",
 		image: "/images/rep_img/Assut_Europe.jpg"	
 	},
+	{
+		country_name: "Italy",
+		country_code: "IT",
+		service_regions:  ["IT"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
 
 	{
 		country_name: "Austria",
@@ -1722,6 +1767,21 @@ window.distributes = [
 		web_site: "http://www.brady.co.at/",
 		image: "/images/rep_img/brady.jpg"	
 	},
+	{
+		country_name: "Austria",
+		country_code: "AT",
+		service_regions:  ["AT"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
 
 	{
 		country_name: "Argentina",
@@ -1736,6 +1796,21 @@ window.distributes = [
 		phone: "+54 11 4981-1478",
 		web_site: "http://www.cirugiadeavanzada.com",
 		image: "/images/rep_img/cirugia.jpg"	
+	},
+	{
+		country_name: "Argentina",
+		country_code: "AR",
+		service_regions:  ["AR"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
 	},
 
 	{
@@ -1753,6 +1828,21 @@ window.distributes = [
 		web_site: "http://www.endomed.fi/",
 		image: "/images/rep_img/endomed.jpg"	
 	},
+	{
+		country_name: "Finland",
+		country_code: "FI",
+		service_regions:  ["FI"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
 
 	{
 		country_name: "Israel",
@@ -1768,6 +1858,21 @@ window.distributes = [
 		fax: "03-5759519",
 		web_site: "http://enterprise-surgical.com/",
 		image: "/images/rep_img/enterprise.jpg"	
+	},
+	{
+		country_name: "Israel",
+		country_code: "IL",
+		service_regions:  ["IL"],	
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
 	},
 
 	{
@@ -1785,6 +1890,37 @@ window.distributes = [
 		web_site: "https://equipsa.es/",
 		image: "/images/rep_img/equipsa.jpg"	
 	},
+	{
+		country_name: "Spain",
+		country_code: "ES",
+		service_regions:  ["ES"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+
+	{
+		country_name: "Portugal",
+		country_code: "PT",
+		service_regions:  ["PT"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
 
 	{
 		country_name: "South Africa",
@@ -1800,6 +1936,21 @@ window.distributes = [
 		fax: "",
 		web_site: "https://www.fluorovizion.com/",
 		image: "/images/rep_img/fluorovizion.jpg"	
+	},
+	{
+		country_name: "South Africa",
+		country_code: "ZA",
+		service_regions:  ["ZA"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
 	},
 
 	{
@@ -1817,6 +1968,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/genicon.jpg"	
 	},
+	{
+		country_name: "Thailand",
+		country_code: "TH",
+		service_regions:  ["TH"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
+	},
 
 	{
 		country_name: "Taiwan",
@@ -1832,6 +1998,21 @@ window.distributes = [
 		fax: "",
 		web_site: "https://www.getz.com",
 		image: "/images/rep_img/getz.jpg"	
+	},
+	{
+		country_name: "Taiwan",
+		country_code: "TW",
+		service_regions:  ["TW"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
 	},
 
 	{
@@ -1849,6 +2030,21 @@ window.distributes = [
 		web_site: "https://goba.dk",
 		image: "/images/rep_img/goba.jpg"	
 	},
+	{
+		country_name: "Denmark",
+		country_code: "DK",
+		service_regions:  ["DK"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
 
 	{
 		country_name: "Greece",
@@ -1864,6 +2060,21 @@ window.distributes = [
 		fax: "",
 		web_site: "http://lbmedical.gr/",
 		image: "/images/rep_img/lb_med.jpg"	
+	},
+	{
+		country_name: "Greece",
+		country_code: "GR",
+		service_regions:  ["GR"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
 	{
@@ -1881,6 +2092,21 @@ window.distributes = [
 		web_site: "https://www.lmtsurgical.com/",
 		image: "/images/rep_img/lmt.jpg"	
 	},
+	{
+		country_name: "Australia",
+		country_code: "AU",
+		service_regions:  ["AU"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
+	},
 
 	{
 		country_name: "Norway",
@@ -1897,6 +2123,22 @@ window.distributes = [
 		web_site: "https://medistim.com/",
 		image: "/images/rep_img/medistim.jpg"	
 	},
+	{
+		country_name: "Norway",
+		country_code: "NO",
+		service_regions:  ["NO"],	
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+	
 
 	{
 		country_name: "India",
@@ -1912,6 +2154,21 @@ window.distributes = [
 		fax: "91-011-29981451",
 		web_site: "",
 		image: "/images/rep_image.jpg"	
+	},
+	{
+		country_name: "India",
+		country_code: "IN",
+		service_regions:  ["IN"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
 	},
 
 	{
@@ -1929,6 +2186,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/namle.jpg"	
 	},
+	{
+		country_name: "Vietnam",
+		country_code: "VN",
+		service_regions:  ["VN"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
+	},
 
 	{
 		country_name: "Chile",
@@ -1944,6 +2216,21 @@ window.distributes = [
 		fax: "",
 		web_site: "http://exlmedica.cl",
 		image: "/images/rep_img/omega_ltda.jpg"	
+	},
+	{
+		country_name: "Chile",
+		country_code: "CL",
+		service_regions:  ["CL"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
 	},
 
 	{
@@ -1961,21 +2248,61 @@ window.distributes = [
 		web_site: "https://www.peters-surgical.com/en/",
 		image: "/images/rep_img/peters.jpg"	
 	},
+	{
+		country_name: "France",
+		country_code: "FR",
+		service_regions:  ["FR"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
 
 	{
 		country_name: "Sweden",
 		country_code: "SE",
 		service_regions:  ["SE"],		
 
-		disptributer_name: "Carl Fredrick Forsberg",
-		contact: "Promeduc Surgical AB",
+		// disptributer_name: "Carl Fredrick Forsberg",
+		// contact: "Promeduc Surgical AB",
+		// disptributer_territory: "",
+		// address:"Rubanksgatan 8, Knivsta 74171",
+		// email: "info@promeduc.se",
+		// phone: " +46 (0)18 54 54 00",
+		// fax: "+46 (0)18 51 50 50",
+		// web_site: "http://www.promeduc.se/",
+		// image: "/images/rep_img/promeduc.jpg"	
+
+		disptributer_name: "Simone Klein",
+		contact: "TapMed Medizintechnik Handels GmbH",
 		disptributer_territory: "",
-		address:"Rubanksgatan 8, Knivsta 74171",
-		email: "info@promeduc.se",
-		phone: " +46 (0)18 54 54 00",
-		fax: "+46 (0)18 51 50 50",
-		web_site: "http://www.promeduc.se/",
-		image: "/images/rep_img/promeduc.jpg"	
+		address:"Gewerbepark 10, Habichtswald-Ehlen, 34317",
+		email: "info@tapmed.de",
+		phone: "+49 5606-53060-0",
+		fax: "+49 5606-53060-44",
+		web_site: "https://tapmed.de/",
+		image: "/images/rep_img/tap_med.jpg"
+	},
+	{
+		country_name: "Sweden",
+		country_code: "SE",
+		service_regions:  ["SE"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
 	{
@@ -1992,6 +2319,21 @@ window.distributes = [
 		fax: "",
 		web_site: "",
 		image: "/images/rep_img/quamedical.jpg"	
+	},
+	{
+		country_name: "Netherlands",
+		country_code: "NL",
+		service_regions:  ["NL"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
 
@@ -2010,6 +2352,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/ronest.jpg"	
 	},
+	{
+		country_name: "Poland",
+		country_code: "PL",
+		service_regions:  ["PL"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
 
 	{
 		country_name: "Colombia",
@@ -2025,6 +2382,21 @@ window.distributes = [
 		fax: "",
 		web_site: "",
 		image: "/images/rep_img/medicas.jpg"	
+	},
+	{
+		country_name: "Colombia",
+		country_code: "CO",
+		service_regions:  ["CO"],
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
 	},
 
 	{
@@ -2043,6 +2415,22 @@ window.distributes = [
 		image: "/images/rep_img/severn.jpg"	
 	},
 	{
+		country_name: "United Kingdom",
+		country_code: "GB",
+		service_regions:  ["GB"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
+
+	{
 		country_name: " Ireland",
 		country_code: "IE",
 		service_regions:  ["IE"],		
@@ -2056,6 +2444,37 @@ window.distributes = [
 		fax: "",
 		web_site: "",
 		image: "/images/rep_img/severn.jpg"	
+	},
+	{
+		country_name: " Ireland",
+		country_code: "IE",
+		service_regions:  ["IE"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
+
+	{
+		country_name: "Iceland",
+		country_code: "IS",
+		service_regions:  ["IS"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
 
@@ -2074,6 +2493,53 @@ window.distributes = [
 		web_site: "https://tapmed.de/",
 		image: "/images/rep_img/tap_med.jpg"	
 	},
+	{
+		country_name: "Germany",
+		country_code: "DE",
+		service_regions:  ["DE"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+
+	{
+		country_name: "Belgium",
+		country_code: "BE",
+		service_regions:  ["BE"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+
+	{
+		country_name: "Luxembourg",
+		country_code: "LU",
+		service_regions:  ["LU"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
 
 	{
 		country_name: "Canada",
@@ -2090,7 +2556,21 @@ window.distributes = [
 		web_site: "http://tsgmedical.com/",
 		image: "/images/rep_img/tsg_medical.jpg"	
 	},
+	{
+		country_name: "Canada",
+		country_code: "CA",
+		service_regions:  ["CA"],		
 
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"	
+	},
 
 	{
 		country_name: "Turkey",
@@ -2106,6 +2586,21 @@ window.distributes = [
 		fax: "",
 		web_site: "http://www.vitalmedikal.com.tr",
 		image: "/images/rep_img/vital.jpg"	
+	},
+	{
+		country_name: "Turkey",
+		country_code: "TR",
+		service_regions:  ["TR"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
 
@@ -2124,6 +2619,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_image.jpg"	
 	},
+	{
+		country_name: "Japan",
+		country_code: "JP",
+		service_regions:  ["JP"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
+	},
 
 	{
 		country_name: "Switzerland",
@@ -2139,6 +2649,52 @@ window.distributes = [
 		fax: "",
 		web_site: "www.tapmed-swiss.ch",
 		image: "/images/rep_img/tapmed.jpg"	
+	},
+	{
+		country_name: "Switzerland",
+		country_code: "CH",
+		service_regions:  ["CH"],		
+
+		disptributer_name: "Jürg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
+	},
+
+	{
+		country_name: "Malaysia",
+		country_code: "MY",
+		service_regions:  ["MY"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
+	},
+	{
+		country_name: "Korea",
+		country_code: "KR",
+		service_regions:  ["KR"],		
+
+		disptributer_name: "Terry Harrell",
+		contact: "Director of Sales",
+		disptributer_territory: "",
+		address: "439 Industrial Lane, Birmingham, AL 35211",
+		email: "Terry_Harrell@Baxter.com",
+		phone: "205.314.3171",
+		fax: "205.941.1522",
+		web_site: "",
+		image: "/images/rep_img/Terry-Harrell.jpg"
 	}
 
 
