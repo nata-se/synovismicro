@@ -74,6 +74,17 @@ window.distributes = [
 						image: "/images/rep_img/ryan-polte.jpg"
 					},	
 					{
+						disptributer_name: "Dale Cruze",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "dale_cruze@baxter.com",
+						phone: "407.756.8316",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Dale_Cruze.jpg"
+					},	
+					{
 						disptributer_name: "John Waller",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
@@ -140,7 +151,18 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Ross_Kappelman.jpg"		
-					},	
+					},
+					{
+						disptributer_name: "Michael Canning",
+						contact: "Regional Specialist Southern Virginia",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "michael_canning@baxter.com",
+						phone: "804.690.0338",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Mike-Canning.jpg"	
+					},
 					{
 						disptributer_name: "Alan Gryn",
 						contact: "South East Regional Manager",
@@ -197,6 +219,17 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Brett_Carter.jpg"	
+					},
+					{
+						disptributer_name: "Michael Canning",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "michael_canning@baxter.com",
+						phone: "804.690.0338",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Mike-Canning.jpg"	
 					},
 					{
 						disptributer_name: "Alan Gryn",
@@ -578,6 +611,17 @@ window.distributes = [
 						image: "/images/rep_img/Kevin_Obrien.jpg"
 					},
 					{
+						disptributer_name: "Shaun Erdmann",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shaun_erdmann@baxter.com",
+						phone: "206.919.1468",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Shaun_Erdman.jpg"
+					},
+					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -605,6 +649,17 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Kevin_Obrien.jpg"
+					},
+					{
+						disptributer_name: "Shaun Erdmann",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shaun_erdmann@baxter.com",
+						phone: "206.919.1468",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Shaun_Erdman.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -635,6 +690,17 @@ window.distributes = [
 						image: "/images/rep_img/Kevin_Obrien.jpg"
 					},
 					{
+						disptributer_name: "Shaun Erdmann",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shaun_erdmann@baxter.com",
+						phone: "206.919.1468",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Shaun_Erdman.jpg"
+					},
+					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -661,6 +727,17 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Kevin_Obrien.jpg"
+					},
+					{
+						disptributer_name: "Shaun Erdmann",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shaun_erdmann@baxter.com",
+						phone: "206.919.1468",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Shaun_Erdman.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -1131,6 +1208,17 @@ window.distributes = [
 						image: "/images/rep_img/Kevin_Obrien.jpg"
 					},
 					{
+						disptributer_name: "Shaun Erdmann",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shaun_erdmann@baxter.com",
+						phone: "206.919.1468",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Shaun_Erdman.jpg"
+					},
+					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -1336,6 +1424,17 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Chris_Dillon.jpg"
+					},
+					{
+						disptributer_name: "Deirdre Tirino",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "deirdre_tirino@baxter.com",
+						phone: "516.252.2354",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Deirdre_Tirino.jpg"
 					},
                     {
                         disptributer_name: "Jordan Kramer",
