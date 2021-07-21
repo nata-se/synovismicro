@@ -479,14 +479,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                               <div class="prod-row">
                                 <div class="productinfo-form-field row-left"  id="container_COLUMN7">
-                                  <label for="80402_106169pi_80402_106169" style="margin:0 0 6px 0">Title</label> 
+                                  <label for="80402_106169pi_80402_106169" style="margin-bottom:6px;" >Title</label> 
                                   
                                 <div class="sect-box ">
 
-                                  <select name="Title" id="80402_106169pi_80402_106169" label="Title"  class="cal-select2" >
+                                  <select name="Title" id="80402_106169pi_80402_106169" label="Title" style="margin-top:6px;" class="cal-select2" >
                                     
                                     <option value="ZIMBABWE">BSN</option>
-                                    <option value="" selected="">CRN</option>
+                                    <option value="CRN" selected="">CRN</option>
                                     <option value="AFGHANISTAN">CRNA</option>
                                     <option value="ALAND ISLANDS">DO</option>
                                     <option value="ALBANIA">DPM</option>
@@ -546,13 +546,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                        name="City" id="control_COLUMN12" label="City" />
                                 <div id="error_for_80402_106177pi_80402_106177" style="display:none"></div>
                               </div>
+                              
                               <div class="productinfo-form-field row-right">
-                                <div class="state"  id="container_COLUMN13">
+                                <!-- <div class="state"  id="container_COLUMN13">
                                   <label for="80402_106179pi_80402_106179">State</label>
                                   <input class="txt_field" placeholder="State" type="text"
                                          name="State" id="control_COLUMN13" label="State"/>
                                   <div id="error_for_80402_106179pi_80402_106179" style="display:none"></div>
+                                </div> -->
+                                <div class="state"  id="container_COLUMN13">
+                                  <label for="80402_106179pi_80402_106179" style="margin-bottom:6px;" >State<b>*</b></label>
+                                  <div class="sect-box ">
+
+                                    <select name="State" id="control_COLUMN13" label="State" class="cal-select2"  required="">
+                                      
+                                      <option value="Alabama">AL - Alabama</option>
+                                      <option value="Alaska">AK - Alaska</option>
+                                      <option value="Arizona">AZ - Arizona</option>
+                                      <option value="Arkansas">AR - Arkansas</option>
+                                      <option value="California">CA - California</option>
+                                      <option value="Colorado">CO - Colorado</option>
+                                      <option value="Connecticut">CT - Connecticut</option>
+                                      <option value="Delaware">DE - Delaware</option>
+                                      <option value="Florida">FL - Florida</option>
+                                      <option value="Georgia">GA - Georgia</option>
+                                      <option value="Hawaii">HI - Hawaii</option>
+                                      <option value="Idaho">ID - Idaho</option>
+                                      <option value="Illinois">IL - Illinois</option>
+                                      <option value="Indiana">IN - Indiana</option>
+                                      <option value="Iowa">IA - Iowa</option>
+                                      <option value="Kansas">KS - Kansas</option>
+                                      <option value="Kentucky">KY - Kentucky</option>
+                                      <option value="Louisiana">LA - Louisiana</option>
+                                      <option value="Maine">ME - Maine</option>
+                                      <option value="Maryland">MD - Maryland</option>
+                                      <option value="Massachusetts">MA - Massachusetts</option>
+                                      <option value="Michigan">MI - Michigan</option>
+                                      <option value="Minnesota">MN - Minnesota</option>
+                                      <option value="Mississippi">MS - Mississippi</option>
+                                      <option value="Missouri">MO - Missouri</option>
+                                      <option value="Montana">MT - Montana</option>
+                                      <option value="Nebraska">NE - Nebraska</option>
+                                      <option value="Nevada">NV - Nevada</option>
+                                      <option value="New Hampshire">NH - New Hampshire</option>
+                                      <option value="New Jersey">NJ - New Jersey</option>
+                                      <option value="New Mexico">NM - New Mexico</option>
+                                      <option value="New York">NY - New York</option>
+                                      <option value="North Carolina">INC - North Carolina</option>
+                                      <option value="North Dakota">ND - North Dakota</option>
+                                      <option value="Ohio">OH - Ohio</option>
+                                      <option value="Oklahoma">OK - Oklahoma</option>
+                                      <option value="Oregon">OR - Oregon</option>
+                                      <option value="Pennsylvania">PA - Pennsylvania</option>
+                                      <option value="Rhode Island">RI - Rhode Island</option>
+                                      <option value="South Carolina">SC - South Carolina</option>
+                                      <option value="South Dakota">SD - South Dakota</option>
+                                      <option value="Tennessee">TN - Tennessee</option>
+                                      <option value="Texas">TX - Texas</option>
+                                      <option value="Utah">UT - Utah</option>
+                                      <option value="Vermont">VT - Vermont</option>
+                                      <option value="Virginia">VA - Virginia</option>
+                                      <option value="Washington">WA - Washington</option>
+                                      <option value="West Virginia">WV - West Virginia</option>
+                                      <option value="Wisconsin">WI - Wisconsin</option>
+                                      <option value="Wyoming">WY - Wyoming</option>
+                                    </select>	 
+                                  </div>
+                                  <!-- <input class="txt_field" placeholder="State" type="text"
+                                         name="State" id="control_COLUMN13" label="State"/> -->
+                                  <div id="error_for_80402_106179pi_80402_106179" style="display:none"></div>
                                 </div>
+
+                                
                                 <div class="zip" id="container_COLUMN14">
                                   <label for="80402_106181pi_80402_106181">ZIP<b>*</b></label>
                                   <input maxlength="10" class="txt_field" placeholder="zip" type="text"

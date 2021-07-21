@@ -2976,8 +2976,9 @@ span.fc-time{
 .productinfo-form-field .state .sect-box{
 	max-width:600px;
 }
-.productinfo-form-field .state .sect-box select.cal-select2{
+.productinfo-form-field .state .sect-box .cal-select2{
 	max-width:600px;
+	margin-top:6px;
 }
 .state .sect-box{
 	border:1px solid #a1a1a1;

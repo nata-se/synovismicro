@@ -49,23 +49,10 @@ window.distributes = [
 			{
 				state: 'FL',
 				distributers: [
-				
-					
-					{
-						disptributer_name: "Nancy Tokryman",
-						contact: "Regional Specialist",
-						disptributer_territory: "South Florida",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "nancy_tokryman@baxter.com",
-						phone: "561.212.0849",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Nancy_Tokryman.jpg"		
-					},
 					{
 						disptributer_name: "Ryan Polte",
 						contact: "Regional Specialist",
-						disptributer_territory: "Central / North Florida",
+						disptributer_territory: "Florida, excluding panhandle",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "ryan_polte@baxter.com",
 						phone: "407.342.2469",
@@ -74,20 +61,9 @@ window.distributes = [
 						image: "/images/rep_img/ryan-polte.jpg"
 					},	
 					{
-						disptributer_name: "Dale Cruze",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "dale_cruze@baxter.com",
-						phone: "407.756.8316",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Dale_Cruze.jpg"
-					},	
-					{
 						disptributer_name: "John Waller",
 						contact: "Regional Specialist",
-						disptributer_territory: "",
+						disptributer_territory: "Florida Panhandle",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "john_waller@baxter",
 						phone: "985.400.9308",
@@ -144,7 +120,7 @@ window.distributes = [
 					{
 						disptributer_name: "Ross Kappelman",
 						contact: "Regional Specialist",
-						disptributer_territory: "",
+						disptributer_territory: "Northern Virginia",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "ross_kappelman@baxter.com",
 						phone: "410.340.2180",
@@ -154,8 +130,8 @@ window.distributes = [
 					},
 					{
 						disptributer_name: "Michael Canning",
-						contact: "Regional Specialist Southern Virginia",
-						disptributer_territory: "",
+						contact: "Regional Specialist",
+						disptributer_territory: "Southern Virginia",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "michael_canning@baxter.com",
 						phone: "804.690.0338",
@@ -209,17 +185,6 @@ window.distributes = [
 			{
 				state: 'NC',
 				distributers: [
-					{
-						disptributer_name: "Brett Carter ",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "brett_carter@baxter.com",
-						phone: "704.223.0308",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Brett_Carter.jpg"	
-					},
 					{
 						disptributer_name: "Michael Canning",
 						contact: "Regional Specialist",
@@ -279,13 +244,24 @@ window.distributes = [
 					{
 						disptributer_name: "John Waller",
 						contact: "Regional Specialist",
-						disptributer_territory: "",
+						disptributer_territory: "Southern Alabama",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "john_waller@baxter",
 						phone: "985.400.9308",
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/John_Waller.jpg"	
+					},
+					{
+						disptributer_name: "Brett Carter ",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "brett_carter@baxter.com",
+						phone: "704.223.0308",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Brett_Carter.jpg"	
 					},
 					{
 						disptributer_name: "Alan Gryn",
@@ -371,6 +347,17 @@ window.distributes = [
 						web_site: "",
 						image: "/images/rep_img/Lori_Vega.jpg"	
 					},
+                    {
+                        disptributer_name: "Jordan Kramer",
+                        contact: "Regional Sales Specialist",
+                        disptributer_territory: "",
+                        address: "439 Industrial Lane, Birmingham, AL 35211",
+                        email: "jordan_kramer@baxter.com",
+                        phone: "347.382.0321",
+                        fax: "205.941.1522",
+                        web_site: "",
+                        image: "/images/rep_img/jordan-kramer.jpg"
+                    },
 					{
 						disptributer_name: "Perry Lin",
 						contact: "Regional Specialist",
@@ -560,6 +547,17 @@ window.distributes = [
 						image: "/images/rep_img/Chad_Huncker.jpg"
 					},
 					{
+						disptributer_name: "Brett Carter ",
+						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "brett_carter@baxter.com",
+						phone: "704.223.0308",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Brett_Carter.jpg"	
+					},
+					{
 						disptributer_name: "Thomas Holba",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
@@ -572,8 +570,8 @@ window.distributes = [
 					},
 					{
 						disptributer_name: "Alan Gryn",
-						contact: "South East Regional Manager",
-						disptributer_territory: "",
+						contact: "Regional Manager",
+						disptributer_territory: "East Tennessee",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "alan_gryn@baxter.com",
 						phone: "615.476.4567",
@@ -611,17 +609,6 @@ window.distributes = [
 						image: "/images/rep_img/Kevin_Obrien.jpg"
 					},
 					{
-						disptributer_name: "Shaun Erdmann",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "shaun_erdmann@baxter.com",
-						phone: "206.919.1468",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Shaun_Erdman.jpg"
-					},
-					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -649,17 +636,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Kevin_Obrien.jpg"
-					},
-					{
-						disptributer_name: "Shaun Erdmann",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "shaun_erdmann@baxter.com",
-						phone: "206.919.1468",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Shaun_Erdman.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -690,17 +666,6 @@ window.distributes = [
 						image: "/images/rep_img/Kevin_Obrien.jpg"
 					},
 					{
-						disptributer_name: "Shaun Erdmann",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "shaun_erdmann@baxter.com",
-						phone: "206.919.1468",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Shaun_Erdman.jpg"
-					},
-					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -727,17 +692,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Kevin_Obrien.jpg"
-					},
-					{
-						disptributer_name: "Shaun Erdmann",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "shaun_erdmann@baxter.com",
-						phone: "206.919.1468",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Shaun_Erdman.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -1149,7 +1103,7 @@ window.distributes = [
 					{
 						disptributer_name: "Shad Huncker",
 						contact: "Regional Specialist",
-						disptributer_territory: "South Illinois",
+						disptributer_territory: "Southern Illinois",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "shad_huncker@baxter.com",
 						phone: "913.579.0190",
@@ -1171,7 +1125,7 @@ window.distributes = [
 					{
 						disptributer_name: "Alan Gryn",
 						contact: "South East Regional Manager",
-						disptributer_territory: "",
+						disptributer_territory: "Southern Illinois",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "alan_gryn@baxter.com",
 						phone: "615.476.4567",
@@ -1189,7 +1143,8 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/John_Beahrs.jpg"
-					}	
+					}
+					
 					
 				]
 			},
@@ -1206,17 +1161,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Kevin_Obrien.jpg"
-					},
-					{
-						disptributer_name: "Shaun Erdmann",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "shaun_erdmann@baxter.com",
-						phone: "206.919.1468",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Shaun_Erdman.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -1255,8 +1199,8 @@ window.distributes = [
 						phone: "317.376.5725",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
-					}	
+						image: "/images/rep_img/John_Beahrs.jpg"
+					}
 				]
 			},
 			{
@@ -1284,7 +1228,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/John_Beahrs.jpg"
-					}	
+					}
 				]
 			},
 			{
@@ -1424,17 +1368,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Chris_Dillon.jpg"
-					},
-					{
-						disptributer_name: "Deirdre Tirino",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "deirdre_tirino@baxter.com",
-						phone: "516.252.2354",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Deirdre_Tirino.jpg"
 					},
                     {
                         disptributer_name: "Jordan Kramer",
@@ -1598,7 +1531,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Steven_Donohue.jpg"
-					},
+					},	
 					{
 						disptributer_name: "John Beahrs",
 						contact: "North East Manager",
@@ -1609,7 +1542,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/John_Beahrs.jpg"	
-					},	
+					}
 				]
 			},
 			{
@@ -1643,7 +1576,6 @@ window.distributes = [
 			{
 				state: 'ME',
 				distributers: [
-				
 					{
 						disptributer_name: "Steven Donohue",
 						contact: "Regional Specialist",
@@ -1654,7 +1586,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Steven_Donohue.jpg"
-					},
+					},	
 					{
 						disptributer_name: "John Beahrs",
 						contact: "North East Manager",
@@ -1665,7 +1597,8 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/John_Beahrs.jpg"	
-					}	
+					}
+					
 				]
 			},
 			{
@@ -2676,15 +2609,15 @@ window.distributes = [
 		country_code: "TR",
 		service_regions:  ["TR"],		
 
-		disptributer_name: "Serif Degirmenci",
-		contact: "Vital Med",
+		disptributer_name: "Ünaldi Medikal",
+		contact: "Yusuf Buyukunaldi",
 		disptributer_territory: "",
-		address:"Bayraktar Mahalliesi Vedat, Dalokay Cad., No: 62/2 GOP, Cankaya-Ankara 06410",
-		email: "serifdegirmenci@vitalmedikal.com.tr",
-		phone: "",
+		address:"Maltepe Mahallesi, Edirne Çırpıcı Yolu Sok. Mira Rezidans 5/3 D:6, 34010 Zeytinburnu/İstanbul, Turkey",
+		email: "yusuf@unaldimedikal.com.tr",
+		phone: "+90 212 621 32 72",
 		fax: "",
-		web_site: "http://www.vitalmedikal.com.tr",
-		image: "/images/rep_img/vital.jpg"	
+		web_site: "https://www.unaldimedikal.com.tr",
+		image: "/images/rep_img/unaldi_medikal.gif"	
 	},
 	{
 		country_name: "Turkey",
