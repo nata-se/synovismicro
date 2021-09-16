@@ -1937,7 +1937,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
+	{
+		country_name: "Portugal",
+		country_code: "PT",
+		service_regions:  ["PT"],		
 
+		disptributer_name: "Carmen Costa",
+		contact: "Equipsa, s.a.",
+		disptributer_territory: "",
+		address:"C/Martin Machio, 46, Madrid 28002",
+		email: "log@equipsa.es",
+		phone: "(0034) 915191060",
+		fax: "",
+		web_site: "https://equipsa.es/",
+		image: "/images/rep_img/equipsa.jpg"	
+	},
 	{
 		country_name: "Portugal",
 		country_code: "PT",
@@ -2349,7 +2363,7 @@ window.distributes = [
 		email: "info@quamedical.nl",
 		phone: "",
 		fax: "",
-		web_site: "",
+		web_site: "https://quamedical.nl/",
 		image: "/images/rep_img/quamedical.jpg"	
 	},
 	{
@@ -2556,6 +2570,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
+	{
+		country_name: "Belgium",
+		country_code: "BE",
+		service_regions:  ["BE"],		
+
+		disptributer_name: "Jaap van der Bijl",
+		contact: "Quamedical",
+		disptributer_territory: "",
+		address:"Linieweg 1, Zuidwolde, 7921 VK",
+		email: "info@quamedical.nl",
+		phone: "",
+		fax: "",
+		web_site: "https://quamedical.nl/",
+		image: "/images/rep_img/quamedical.jpg"	
+	},
 
 	{
 		country_name: "Luxembourg",
@@ -2610,11 +2639,11 @@ window.distributes = [
 		service_regions:  ["TR"],		
 
 		disptributer_name: "Ünaldi Medikal",
-		contact: "Yusuf Buyukunaldi",
+		contact: "",
 		disptributer_territory: "",
 		address:"Maltepe Mahallesi, Edirne Çırpıcı Yolu Sok. Mira Rezidans 5/3 D:6, 34010 Zeytinburnu/İstanbul, Turkey",
-		email: "yusuf@unaldimedikal.com.tr",
-		phone: "+90 212 621 32 72",
+		email: "info@unaldimedikal.com.tr",
+		phone: "+90 212 621 32 71",
 		fax: "",
 		web_site: "https://www.unaldimedikal.com.tr",
 		image: "/images/rep_img/unaldi_medikal.gif"	
@@ -2676,10 +2705,10 @@ window.distributes = [
 		contact: "",
 		disptributer_territory: "",
 		address:"Gumprechtstrasse 33 · 6376 Emmetten",
-		email: "komori@wonderworks.co.jp",
-		phone: "+41 41 520 60 88",
+		email: "info@tapmed-swiss.ch",
+		phone: "+41 41 520 61 11",
 		fax: "",
-		web_site: "www.tapmed-swiss.ch",
+		web_site: "https://www.tapmed.de/",
 		image: "/images/rep_img/tapmed.jpg"	
 	},
 	{

@@ -1,5 +1,6 @@
+
 .distributer-info {
-  margin-bottom: 1rem;
+  margin-top: 0;
   display: flex;
   flex-wrap: wrap;
 
@@ -44,3 +45,20 @@
   font-size: 1em;
   text-decoration: none;
 }
+@media screen and (min-width: 1055px){
+  .distributer-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 180px;
+    height: 500px;
+    padding: 20px;
+    top: -500px;
+    right: 0;
+    margin: 12px;
+    background: rgba(255, 255, 255, 0.9);
+    float: right;
+    -webkit-box-shadow: 4px 3px 32px -1px rgba(0,0,0,0.35); 
+    box-shadow: 4px 3px 32px -1px rgba(0,0,0,0.35);
+  }
+ }
+

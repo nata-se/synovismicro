@@ -437,47 +437,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>        
     
         <script id="distributer-template" type="text/x-handlebars-template">
-          <div class="distributer-info">
-            <div class="distributer-image">
-              {{#if image}}
-                <img src="{{image}}" alt="Distributor" height="175" width="175">
-              {{else}}
-           
-              {{/if}}
-            </div>
-
-            <div class="distributer-data">
-              {{#if disptributer_name}}
-                <div class="title">{{contact}}</div>
-              {{/if}}
-              {{#if disptributer_territory}}
-              <div class="territory">{{disptributer_territory}}</div>
-              {{/if}}
-              {{#if contact}}
-                <div>{{disptributer_name}}</div>
-              {{/if}}
-              {{#if address}}
-                <div>{{address}}</div>
-              {{/if}}
-              {{#if phone}}
-                <div>T: {{phone}}</div>                
-              {{/if}}
-              {{#if fax}}
-                <div>F: {{fax}}</div>                
-              {{/if}}
-              {{#if web_site}}
-                <div>
-                  <a href="{{web_site}}" class="external_link">WEBSITE  »</a>
+            <div class="distributer-wrap">
+            <div class="distributer-z">
+                <div class="distributer-image">
+                {{#if image}}
+                    <img src="{{image}}" alt="Distributor" height="175" width="175">
+                {{else}}
+            
+                {{/if}}
                 </div>
-              {{/if}}
 
-              {{#if email}}
-                <div>
-                  <a href="mailto:{{email}}">SEND EMAIL  »</a>
+                <div class="distributer-data">
+                {{#if disptributer_name}}
+                    <div class="title">{{contact}}</div>
+                {{/if}}
+                {{#if disptributer_territory}}
+                <div class="territory">{{disptributer_territory}}</div>
+                {{/if}}
+                {{#if contact}}
+                    <div>{{disptributer_name}}</div>
+                {{/if}}
+                {{#if address}}
+                    <div>{{address}}</div>
+                {{/if}}
+                {{#if phone}}
+                    <div>T: {{phone}}</div>                
+                {{/if}}
+                {{#if fax}}
+                    <div>F: {{fax}}</div>                
+                {{/if}}
+                {{#if web_site}}
+                    <div>
+                    <a href="{{web_site}}" class="external_link">WEBSITE  »</a>
+                    </div>
+                {{/if}}
+
+                {{#if email}}
+                    <div>
+                    <a href="mailto:{{email}}">SEND EMAIL  »</a>
+                    </div>
+                {{/if}}
                 </div>
-              {{/if}}
             </div>
-          </div>
+        </div>
         </script>
    
       </div> <!-- END wrapper -->

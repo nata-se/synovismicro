@@ -434,50 +434,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <button id="usa-back" type="button" class="learn-more">Back to World</button>
           <div id="usa-map-content"   style="width: 100%; height: 400px;">
           </div>
-        </div>        
+        </div>  
+        <!-- <div id="distributer-wrapper" class="distributer-wrapper"></div>       -->
     
         <script id="distributer-template" type="text/x-handlebars-template">
-          <div class="distributer-info">
-            <div class="distributer-image">
-              {{#if image}}
-                <img src="{{image}}" alt="Distributor" height="175" width="175">
-              {{else}}
-           
-              {{/if}}
+            <div id="distributer-wrapper" class="distributer-wrapper">
+                <div class="distributer-info">
+                    <div class="distributer-image">
+                      {{#if image}}
+                        <img src="{{image}}" alt="Distributor" height="175" width="175">
+                      {{else}}
+                   
+                      {{/if}}
+                    </div>
+        
+                    <div class="distributer-data">
+                      {{#if disptributer_name}}
+                        <div class="title">{{contact}}</div>
+                      {{/if}}
+                      {{#if disptributer_territory}}
+                      <div class="territory">{{disptributer_territory}}</div>
+                      {{/if}}
+                      {{#if contact}}
+                        <div>{{disptributer_name}}</div>
+                      {{/if}}
+                      {{#if address}}
+                        <div>{{address}}</div>
+                      {{/if}}
+                      {{#if phone}}
+                        <div>T: {{phone}}</div>                
+                      {{/if}}
+                      {{#if fax}}
+                        <div>F: {{fax}}</div>                
+                      {{/if}}
+                      {{#if web_site}}
+                        <div>
+                          <a href="{{web_site}}" class="external_link">WEBSITE  »</a>
+                        </div>
+                      {{/if}}
+        
+                      {{#if email}}
+                        <div>
+                          <a href="mailto:{{email}}">SEND EMAIL  »</a>
+                        </div>
+                      {{/if}}
+                    </div>
+                </div>  
             </div>
-
-            <div class="distributer-data">
-              {{#if disptributer_name}}
-                <div class="title">{{contact}}</div>
-              {{/if}}
-              {{#if disptributer_territory}}
-              <div class="territory">{{disptributer_territory}}</div>
-              {{/if}}
-              {{#if contact}}
-                <div>{{disptributer_name}}</div>
-              {{/if}}
-              {{#if address}}
-                <div>{{address}}</div>
-              {{/if}}
-              {{#if phone}}
-                <div>T: {{phone}}</div>                
-              {{/if}}
-              {{#if fax}}
-                <div>F: {{fax}}</div>                
-              {{/if}}
-              {{#if web_site}}
-                <div>
-                  <a href="{{web_site}}" class="external_link">WEBSITE  »</a>
-                </div>
-              {{/if}}
-
-              {{#if email}}
-                <div>
-                  <a href="mailto:{{email}}">SEND EMAIL  »</a>
-                </div>
-              {{/if}}
-            </div>
-          </div>
         </script>
    
       </div> <!-- END wrapper -->

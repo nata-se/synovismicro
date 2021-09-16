@@ -254,13 +254,15 @@ function processMap() {
         } 
         
         actualDistributers = actualDistributers || [ distributer ]
+        console.log('data', actualDistributers)
 
         for (var j=0; j<actualDistributers.length; j++) {
           var source   = jQuery("#distributer-template").html();
           var template = Handlebars.compile(source);
           var html     = template(actualDistributers[j]);
 
-          jQuery('#distributer-info').append(html);
+           jQuery('#distributer-info').append(html);
+          
         }        
       }
     }
@@ -326,6 +328,6 @@ function processMap() {
       console.log('USA map is not active - bail out')
     }
 
-    showDistributers(code);
+    return showDistributers(code);
   }
 }
