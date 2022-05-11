@@ -1210,10 +1210,10 @@ padding:21px 0 ;
        color: #faaf2a;
 }
 .left-content li.active  a{
-    color: #595478;
+    color: #27438c;
 }
 .left-content li  a:hover{
-    color: rgb(94,91,112);
+    color: #27438c;
 }
 .left-content li.first {
     border-top: 2px solid #595478;

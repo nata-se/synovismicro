@@ -915,7 +915,7 @@ margin-bottom:0px;
     color: #27438c;
 }
 .left-content li  a:hover{
-    color: rgb(94,91,112);
+	color: #27438c;
 }
 .left-content li.first {
     border-top: 0px solid rgb(200,200,200);
