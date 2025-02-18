@@ -2234,7 +2234,7 @@ span.fc-time{
 		float: left;
     display: inline-block;
 		border: 1px solid #d8d8d8;            
-		 background: url(../images/dropdown_close.png) 98% center no-repeat;
+		background: url(../images/dropdown_close.png) 98% center no-repeat;
 		cursor: pointer;
 	}
 	.sect-box, .sect-box select{
@@ -2908,6 +2908,7 @@ span.fc-time{
 .row-left{
 	width:327px;
 	float:left;
+	padding-right: 20px;
 }
 .row-right{
 	width:327px;
@@ -3353,7 +3354,7 @@ contact-align input[type="checkbox" i]  {
 	display:block;
 	line-height:22px;
 }
-.contact-align label b{
+.contact label b{
 	font-size:1em;
 	line-height:1em;
 	color:#f00;
@@ -3361,24 +3362,24 @@ contact-align input[type="checkbox" i]  {
 	display:inline-block;
 	
 }
+.contact label .yesNoCheckboxLabel {
+	font-size: 14px;
+	line-height: 16px;
+}
 .contact-email .state .sect-box select.cal-select-contact {
 	width:95%;
 }
-.contact-email .prod-row {
+.prod-row {
 	margin-top: 25px;
 }
-.contact-email .sect-box {
+.sect-box {
 	margin-top:6px;
 }
 .contact-align {
 	margin-top:25px;
 
 }
-.contact-align label {
-	font-size:1em;
-	color:#536292;
-	line-height:22px;
-}
+
 .txtarea_field{
 	width:100%;
 	height:111px;

@@ -1619,6 +1619,7 @@ list-style-type:decimal;
 	width:327px;
 	float:left;
 	margin:0;
+	padding-right: 20px;
 }
 .row-right{
 	width:327px;
@@ -1922,6 +1923,11 @@ padding-top: 15px;
 }
 .contact {
 	width:656px;
+}
+
+.contact label .yesNoCheckboxLabel {
+	font-size: 14px;
+	line-height: 16px;
 }
 
 .contact-align {
