@@ -3386,10 +3386,9 @@ contact-align input[type="checkbox" i]  {
 	/* text-indent:3px; */
 	border:1px solid #a1a1a1;
 	color:#7d7d7d;
-	     overflow: auto;
-		padding: 3px 6px;
-		font-family: 'Gotham SSm A','Gotham SSm B','Helvetica Neue',Arial,sans-serif;
-		font-size:0.875em;
+	overflow: auto;
+	font-family: 'Gotham SSm A','Gotham SSm B','Helvetica Neue',Arial,sans-serif;
+	font-size:0.875em;
 }
 .txtarea_field:focus{
 	outline:none;

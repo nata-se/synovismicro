@@ -59,19 +59,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/ryan-polte.jpg"
-					},	
-					{
-						disptributer_name: "John Waller",
-						contact: "Regional Specialist",
-						disptributer_territory: "Florida Panhandle",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_waller@baxter",
-						phone: "985.400.9308",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Waller.jpg"		
-					},	
-					
+					},				
 					{
 						disptributer_name: "Alan Gryn",
 						contact: "South East Regional Manager",
@@ -242,17 +230,6 @@ window.distributes = [
 				state: 'AL',
 				distributers: [
 					{
-						disptributer_name: "John Waller",
-						contact: "Regional Specialist",
-						disptributer_territory: "Southern Alabama",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_waller@baxter",
-						phone: "985.400.9308",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Waller.jpg"	
-					},
-					{
 						disptributer_name: "Brett Carter ",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
@@ -282,17 +259,6 @@ window.distributes = [
 				state: 'MS',
 				distributers: [
 					{
-						disptributer_name: "John Waller",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_waller@baxter",
-						phone: "985.400.9308",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Waller.jpg"	
-					},
-					{
 						disptributer_name: "Alan Gryn",
 						contact: "South East Regional Manager",
 						disptributer_territory: "",
@@ -309,16 +275,17 @@ window.distributes = [
 			{
 				state: 'DE',
 				distributers: [
+					
 					{
-						disptributer_name: "Lori Vega",
+					disptributer_name: "Steph Brasten",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "lori_vega@baxter.com",
-						phone: "267.549.9742",
+						email: "steph_brasten@baxter.com",
+						phone: "445.456.9280",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Lori_Vega.jpg"		
+						image: "/images/rep_img/Steph-Brasten.jpg"	
 					},
 					{
 						disptributer_name: "Alan Gryn",
@@ -330,34 +297,24 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Alan_Gryn.jpg"	
-					}	
+					}
 				]
 			},
 			{
 				state: 'NJ',
 				distributers: [
+					
 					{
-						disptributer_name: "Lori Vega",
+					disptributer_name: "Steph Brasten",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "lori_vega@baxter.com",
-						phone: "267.549.9742",
+						email: "steph_brasten@baxter.com",
+						phone: "445.456.9280",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Lori_Vega.jpg"	
+						image: "/images/rep_img/Steph-Brasten.jpg"	
 					},
-                    {
-                        disptributer_name: "Jordan Kramer",
-                        contact: "Regional Sales Specialist",
-                        disptributer_territory: "",
-                        address: "439 Industrial Lane, Birmingham, AL 35211",
-                        email: "jordan_kramer@baxter.com",
-                        phone: "347.382.0321",
-                        fax: "205.941.1522",
-                        web_site: "",
-                        image: "/images/rep_img/jordan-kramer.jpg"
-                    },
 					{
 						disptributer_name: "Perry Lin",
 						contact: "Regional Specialist",
@@ -381,15 +338,15 @@ window.distributes = [
 						image: "/images/rep_img/Alan_Gryn.jpg"	
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+							disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}
 					
 								
@@ -400,27 +357,37 @@ window.distributes = [
 				distributers: [
 					
 					{
-						disptributer_name: "Lori Vega",
+					disptributer_name: "Steph Brasten",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "lori_vega@baxter.com",
-						phone: "267.549.9742",
+						email: "steph_brasten@baxter.com",
+						phone: "445.456.9280",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Lori_Vega.jpg"	
+						image: "/images/rep_img/Steph-Brasten.jpg"	
 					},
-					
-					{
-						disptributer_name: "Christopher Dillon",
+                  {
+                  	disptributer_name: "Shane Murphy",
 						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shane_murphy@baxter.com",
+						phone: "330.256.8497",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/shane-murphy.jpg"	
+					},
+					{
+							disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "christopher_dillon@baxter.com",
 						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Chris_Dillon.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					},
 					{
 						disptributer_name: "Alan Gryn",
@@ -432,18 +399,7 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Alan_Gryn.jpg"	
-					},
-					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
-					}			
+					}
 				]
 			},
 			
@@ -581,7 +537,7 @@ window.distributes = [
 					},
 					{
 						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						contact: "Director of Sales",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "john_beahrs@baxter.com",
@@ -598,15 +554,15 @@ window.distributes = [
 					
 
 					{
-						disptributer_name: "Kevin O’Brien",
+						disptributer_name: "Grady Auvil",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: " kevin_obrien@baxter.com",
-						phone: "503.307.0985",
+						email: " grady_auvil@baxter.com",
+						phone: "425.306.1534",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Kevin_Obrien.jpg"
+						image: "/images/rep_img/Grady_Auvil.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -627,15 +583,15 @@ window.distributes = [
 				distributers: [
 					
 					{
-						disptributer_name: "Kevin O’Brien",
+						disptributer_name: "Grady Auvil",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: " kevin_obrien@baxter.com",
-						phone: "503.307.0985",
+						email: " grady_auvil@baxter.com",
+						phone: "425.306.1534",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Kevin_Obrien.jpg"
+						image: "/images/rep_img/Grady_Auvil.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -655,15 +611,15 @@ window.distributes = [
 				distributers: [
 					
 					{
-						disptributer_name: "Kevin O’Brien",
+						disptributer_name: "Grady Auvil",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: " kevin_obrien@baxter.com",
-						phone: "503.307.0985",
+						email: " grady_auvil@baxter.com",
+						phone: "425.306.1534",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Kevin_Obrien.jpg"
+						image: "/images/rep_img/Grady_Auvil.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -683,15 +639,15 @@ window.distributes = [
 				distributers: [
 					
 					{
-						disptributer_name: "Kevin O’Brien",
+						disptributer_name: "Grady Auvil",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: " kevin_obrien@baxter.com",
-						phone: "503.307.0985",
+						email: " grady_auvil@baxter.com",
+						phone: "425.306.1534",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Kevin_Obrien.jpg"
+						image: "/images/rep_img/Grady_Auvil.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -994,17 +950,6 @@ window.distributes = [
 						image: "/images/rep_img/Brian_Kibby.jpg"	
 					},
 					{
-						disptributer_name: "Kathleen DeSirey",
-						contact: "Regional Specialist",
-						disptributer_territory: "Houston Area",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "kathleen_desirey@baxter.com",
-						phone: "281.543.2750",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/Kathy_Desirey.jpg"
-					},
-					{
 						disptributer_name: "William Graue",
 						contact: "Western Regional Manager",
 						disptributer_territory: "",
@@ -1032,17 +977,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Hunter_Hannon.jpg"
-					},
-					{
-						disptributer_name: "John Waller",
-						contact: "Regional Specialist",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_waller@baxter",
-						phone: "985.400.9308",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Waller.jpg"	
 					},
 					{
 						disptributer_name: "William Graue",
@@ -1134,15 +1068,15 @@ window.distributes = [
 						image: "/images/rep_img/Alan_Gryn.jpg"	
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}
 					
 					
@@ -1152,15 +1086,15 @@ window.distributes = [
 				state: 'ID',
 				distributers: [
 					{
-						disptributer_name: "Kevin O’Brien",
+						disptributer_name: "Grady Auvil",
 						contact: "Regional Specialist",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: " kevin_obrien@baxter.com",
-						phone: "503.307.0985",
+						email: " grady_auvil@baxter.com",
+						phone: "425.306.1534",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Kevin_Obrien.jpg"
+						image: "/images/rep_img/Grady_Auvil.jpg"
 					},
 					{
 						disptributer_name: "William Graue",
@@ -1191,15 +1125,15 @@ window.distributes = [
 						image: "/images/rep_img/John_Schroeder.jpg"	
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}
 				]
 			},
@@ -1219,15 +1153,15 @@ window.distributes = [
 						image: "/images/rep_img/John_Schroeder.jpg"	
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}
 				]
 			},
@@ -1247,15 +1181,15 @@ window.distributes = [
 						image: "/images/rep_img/John_Schroeder.jpg"	
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}	
 				]
 			},
@@ -1275,15 +1209,15 @@ window.distributes = [
 						image: "/images/rep_img/Thomas_Holba.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}	
 				]
 			},
@@ -1303,15 +1237,15 @@ window.distributes = [
 						image: "/images/rep_img/Thomas_Holba.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}	
 				]
 			},
@@ -1331,15 +1265,15 @@ window.distributes = [
 						image: "/images/rep_img/Thomas_Holba.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"
 					}	
 				]
 			},
@@ -1348,8 +1282,30 @@ window.distributes = [
 				distributers: [
 					
 					{
+					disptributer_name: "Matthew Holba",
+						contact: "Regional Specialist (Upstate NY)",
+						disptributer_territory: "",
+						address: "439 Industrial, Lane, Birmingham, AL 35211",
+						email: "matthew_holba@baxter.com",
+						phone: "929.969.6459",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/Matthew-Holba.jpg"	
+					},
+                  					{
+					disptributer_name: "Shane Murphy",
+						contact: "Regional Specialist (Upstate NY West)",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shane_murphy@baxter.com",
+						phone: "330.256.8497",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/shane-murphy.jpg"	
+					},
+                  {
 						disptributer_name: "Perry Lin",
-						contact: "Regional Specialist (New York Metro)",
+						contact: "Regional Specialist (NY City)",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "perry_lin@baxter.com",
@@ -1358,38 +1314,18 @@ window.distributes = [
 						web_site: "",
 						image: "/images/rep_img/Perry_Lin.jpg"
 					},
+					
+                    
 					{
 						disptributer_name: "Christopher Dillon",
-						contact: "Regional Specialist",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "christopher_dillon@baxter.com",
 						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Chris_Dillon.jpg"
-					},
-                    {
-                        disptributer_name: "Jordan Kramer",
-                        contact: "Regional Sales Specialist",
-                        disptributer_territory: "",
-                        address: "439 Industrial Lane, Birmingham, AL 35211",
-                        email: "jordan_kramer@baxter.com",
-                        phone: "347.382.0321",
-                        fax: "205.941.1522",
-                        web_site: "",
-                        image: "/images/rep_img/jordan-kramer.jpg"
-                    },
-					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}
 				]
 			},
@@ -1398,8 +1334,19 @@ window.distributes = [
 				distributers: [
 				
 					{
-						disptributer_name: "Christopher Dillon",
+					disptributer_name: "Shane Murphy",
 						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shane_murphy@baxter.com",
+						phone: "330.256.8497",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/shane-murphy.jpg"	
+					},		
+					{
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "christopher_dillon@baxter.com",
@@ -1407,17 +1354,6 @@ window.distributes = [
 						fax: "205.941.1522",
 						web_site: "",
 						image: "/images/rep_img/Chris_Dillon.jpg"
-					},
-					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
 					}	
 				]
 			},
@@ -1483,26 +1419,26 @@ window.distributes = [
 				distributers: [
 					
 					{
-						disptributer_name: "Christopher Dillon",
+					disptributer_name: "Shane Murphy",
 						contact: "Regional Specialist",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "shane_murphy@baxter.com",
+						phone: "330.256.8497",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/shane-murphy.jpg"	
+					},					
+					{
+					disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
 						email: "christopher_dillon@baxter.com",
 						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/Chris_Dillon.jpg"
-					},
-					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
-						disptributer_territory: "",
-						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
-						fax: "205.941.1522",
-						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}	
 				]
 			},
@@ -1533,15 +1469,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},	
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+							disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"		
 					}
 				]
 			},
@@ -1561,15 +1497,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+							disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}	
 				]
 			},
@@ -1588,15 +1524,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},	
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}
 					
 				]
@@ -1617,15 +1553,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"		
 					}	
 				]
 			},
@@ -1645,15 +1581,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+							disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"	
 					}	
 				]
 			},
@@ -1673,15 +1609,15 @@ window.distributes = [
 						image: "/images/rep_img/Steven_Donohue.jpg"
 					},
 					{
-						disptributer_name: "John Beahrs",
-						contact: "North East Manager",
+						disptributer_name: "Christopher Dillon",
+						contact: "Northeast Regional Manager",
 						disptributer_territory: "",
 						address: "439 Industrial Lane, Birmingham, AL 35211",
-						email: "john_beahrs@baxter.com",
-						phone: "317.376.5725",
+						email: "christopher_dillon@baxter.com",
+						phone: "614.364.1542",
 						fax: "205.941.1522",
 						web_site: "",
-						image: "/images/rep_img/John_Beahrs.jpg"	
+						image: "/images/rep_img/Chris_Dillon.jpg"		
 					}	
 				]
 			}
@@ -1691,83 +1627,83 @@ window.distributes = [
 
 	},
 
+	// {
+	// 	country_name: "China",
+	// 	country_code: "CN",
+	// 	service_regions:  ["CN"],		
+
+	// 	disptributer_name: "Jackie Han",
+	// 	contact: "KingSung",
+	// 	disptributer_territory: "",
+	// 	address:"Room 302, Baihuan, Qingchuang, #66 Guangzu Rd, Chaoyang District Beijing 100020",
+	// 	email: "jackie.han@kingsungmedical.com",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "http://kingsungmedical.com/",
+	// 	image: "/images/rep_img/kingsung.jpg"	
+	// },
 	{
 		country_name: "China",
 		country_code: "CN",
 		service_regions:  ["CN"],		
 
-		disptributer_name: "Jackie Han",
-		contact: "KingSung",
-		disptributer_territory: "",
-		address:"Room 302, Baihuan, Qingchuang, #66 Guangzu Rd, Chaoyang District Beijing 100020",
-		email: "jackie.han@kingsungmedical.com",
-		phone: "",
-		fax: "",
-		web_site: "http://kingsungmedical.com/",
-		image: "/images/rep_img/kingsung.jpg"	
-	},
-	{
-		country_name: "China",
-		country_code: "CN",
-		service_regions:  ["CN"],		
-
-		disptributer_name: "Terry Harrell",
-		contact: "Director of Sales",
-		disptributer_territory: "",
-		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
-		fax: "205.941.1522",
-		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		                disptributer_name: "John Beahrs",
+						contact: "Director of Sales",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "john_beahrs@baxter.com",
+						phone: "317.376.5725",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/John_Beahrs.jpg"	
 	},
 
-	{
-		country_name: "Saudi Arabia",
-		country_code: "SA",
-		service_regions:  ["SA"],		
+	// {
+	// 	country_name: "Saudi Arabia",
+	// 	country_code: "SA",
+	// 	service_regions:  ["SA"],		
 
-		disptributer_name: "Mohamed Ashraf",
-		contact: "Al Nozha Medical Co (W.L.L.)",
-		disptributer_territory: "",
-		address:"Al Noor Commercial Center, Office #s 201/202/203, Al Medina Road (Direction Balad), Ruwais, Jeddah 21422",
-		email: "info@nozhamedical.com",
-		phone: "+966(12) 653 4664",
-		fax: "966(12) 653 2789",
-		web_site: "http://nozhamedical.com/",
-		image: "/images/rep_img/Al-Nozha.jpg"	
-	},
+	// 	disptributer_name: "Mohamed Ashraf",
+	// 	contact: "Al Nozha Medical Co (W.L.L.)",
+	// 	disptributer_territory: "",
+	// 	address:"Al Noor Commercial Center, Office #s 201/202/203, Al Medina Road (Direction Balad), Ruwais, Jeddah 21422",
+	// 	email: "info@nozhamedical.com",
+	// 	phone: "+966(12) 653 4664",
+	// 	fax: "966(12) 653 2789",
+	// 	web_site: "http://nozhamedical.com/",
+	// 	image: "/images/rep_img/Al-Nozha.jpg"	
+	// },
 	{
 		country_name: "Saudi Arabia",
 		country_code: "SA",
 		service_regions:  ["SA"],		
 
-		disptributer_name: "Terry Harrell",
-		contact: "Director of Sales",
-		disptributer_territory: "",
-		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
-		fax: "205.941.1522",
-		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		                disptributer_name: "John Beahrs",
+						contact: "Director of Sales",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "john_beahrs@baxter.com",
+						phone: "317.376.5725",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Italy",
-		country_code: "IT",
-		service_regions:  ["IT"],		
+	// {
+	// 	country_name: "Italy",
+	// 	country_code: "IT",
+	// 	service_regions:  ["IT"],		
 
-		disptributer_name: "Gloria Aggio",
-		contact: "Assut Europe SPA",
-		disptributer_territory: "",
-		address:"Zona Industgriale, Magliano Dei MarsiAQ, 67062",
-		email: "g.aggoi@assuteurope.com",
-		phone: "0863/517956",
-		fax: "0863/570084",
-		web_site: "https://www.assuteurope.com/",
-		image: "/images/rep_img/Assut_Europe.jpg"	
-	},
+	// 	disptributer_name: "Gloria Aggio",
+	// 	contact: "Assut Europe SPA",
+	// 	disptributer_territory: "",
+	// 	address:"Zona Industgriale, Magliano Dei MarsiAQ, 67062",
+	// 	email: "g.aggoi@assuteurope.com",
+	// 	phone: "0863/517956",
+	// 	fax: "0863/570084",
+	// 	web_site: "https://www.assuteurope.com/",
+	// 	image: "/images/rep_img/Assut_Europe.jpg"	
+	// },
 	{
 		country_name: "Italy",
 		country_code: "IT",
@@ -1815,51 +1751,51 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
+	// {
+	// 	country_name: "Argentina",
+	// 	country_code: "AR",
+	// 	service_regions:  ["AR"],		
+
+	// 	disptributer_name: "Pablo Jose Garcia",
+	// 	contact: "Cirugia de Avanzada S.R.L.",
+	// 	disptributer_territory: "",
+	// 	address:"Av. Hipólito Yrigoyen 4230, C1212 ACN, Buenos Aires, Argentina",
+	// 	email: "pgarcia@cirugiadeavanzada.com",
+	// 	phone: "+54 11 4981-1478",
+	// 	web_site: "http://www.cirugiadeavanzada.com",
+	// 	image: "/images/rep_img/cirugia.jpg"	
+	// },
 	{
 		country_name: "Argentina",
 		country_code: "AR",
 		service_regions:  ["AR"],		
 
-		disptributer_name: "Pablo Jose Garcia",
-		contact: "Cirugia de Avanzada S.R.L.",
-		disptributer_territory: "",
-		address:"Av. Hipólito Yrigoyen 4230, C1212 ACN, Buenos Aires, Argentina",
-		email: "pgarcia@cirugiadeavanzada.com",
-		phone: "+54 11 4981-1478",
-		web_site: "http://www.cirugiadeavanzada.com",
-		image: "/images/rep_img/cirugia.jpg"	
-	},
-	{
-		country_name: "Argentina",
-		country_code: "AR",
-		service_regions:  ["AR"],		
-
-		disptributer_name: "Terry Harrell",
-		contact: "Director of Sales",
-		disptributer_territory: "",
-		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
-		fax: "205.941.1522",
-		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		                disptributer_name: "John Beahrs",
+						contact: "Director of Sales",
+						disptributer_territory: "",
+						address: "439 Industrial Lane, Birmingham, AL 35211",
+						email: "john_beahrs@baxter.com",
+						phone: "317.376.5725",
+						fax: "205.941.1522",
+						web_site: "",
+						image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Finland",
-		country_code: "FI",
-		service_regions:  ["FI"],		
+	// {
+	// 	country_name: "Finland",
+	// 	country_code: "FI",
+	// 	service_regions:  ["FI"],		
 
-		disptributer_name: "Minna Siitonen",
-		contact: "Endomed Oy",
-		disptributer_territory: "",
-		address:"Italahdenkatu 18 C, Helsinki 00210",
-		email: "mail@endomed.fi",
-		phone: "+358 9 668 9820",
-		fax: "+358 9 6689 8210",
-		web_site: "http://www.endomed.fi/",
-		image: "/images/rep_img/endomed.jpg"	
-	},
+	// 	disptributer_name: "Minna Siitonen",
+	// 	contact: "Endomed Oy",
+	// 	disptributer_territory: "",
+	// 	address:"Italahdenkatu 18 C, Helsinki 00210",
+	// 	email: "mail@endomed.fi",
+	// 	phone: "+358 9 668 9820",
+	// 	fax: "+358 9 6689 8210",
+	// 	web_site: "http://www.endomed.fi/",
+	// 	image: "/images/rep_img/endomed.jpg"	
+	// },
 	{
 		country_name: "Finland",
 		country_code: "FI",
@@ -1876,52 +1812,52 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
-	{
-		country_name: "Israel",
-		country_code: "IL",
-		service_regions:  ["IL"],		
+	// {
+	// 	country_name: "Israel",
+	// 	country_code: "IL",
+	// 	service_regions:  ["IL"],		
 
-		disptributer_name: "Doron Blum",
-		contact: "Enterprise Ltd.",
-		disptributer_territory: "",
-		address:"19 Ben-Gurion ST, Beni Barak 51100",
-		email: "info567@enterprise-surgical.com",
-		phone: "03-5759463",
-		fax: "03-5759519",
-		web_site: "http://enterprise-surgical.com/",
-		image: "/images/rep_img/enterprise.jpg"	
-	},
+	// 	disptributer_name: "Doron Blum",
+	// 	contact: "Enterprise Ltd.",
+	// 	disptributer_territory: "",
+	// 	address:"19 Ben-Gurion ST, Beni Barak 51100",
+	// 	email: "info567@enterprise-surgical.com",
+	// 	phone: "03-5759463",
+	// 	fax: "03-5759519",
+	// 	web_site: "http://enterprise-surgical.com/",
+	// 	image: "/images/rep_img/enterprise.jpg"	
+	// },
 	{
 		country_name: "Israel",
 		country_code: "IL",
 		service_regions:  ["IL"],	
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Spain",
-		country_code: "ES",
-		service_regions:  ["ES"],		
+	// {
+	// 	country_name: "Spain",
+	// 	country_code: "ES",
+	// 	service_regions:  ["ES"],		
 
-		disptributer_name: "Carmen Costa",
-		contact: "Equipsa, s.a.",
-		disptributer_territory: "",
-		address:"C/Martin Machio, 46, Madrid 28002",
-		email: "log@equipsa.es",
-		phone: "(0034) 915191060",
-		fax: "",
-		web_site: "https://equipsa.es/",
-		image: "/images/rep_img/equipsa.jpg"	
-	},
+	// 	disptributer_name: "Carmen Costa",
+	// 	contact: "Equipsa, s.a.",
+	// 	disptributer_territory: "",
+	// 	address:"C/Martin Machio, 46, Madrid 28002",
+	// 	email: "log@equipsa.es",
+	// 	phone: "(0034) 915191060",
+	// 	fax: "",
+	// 	web_site: "https://equipsa.es/",
+	// 	image: "/images/rep_img/equipsa.jpg"	
+	// },
 	{
 		country_name: "Spain",
 		country_code: "ES",
@@ -1937,21 +1873,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
-	{
-		country_name: "Portugal",
-		country_code: "PT",
-		service_regions:  ["PT"],		
+	// {
+	// 	country_name: "Portugal",
+	// 	country_code: "PT",
+	// 	service_regions:  ["PT"],		
 
-		disptributer_name: "Carmen Costa",
-		contact: "Equipsa, s.a.",
-		disptributer_territory: "",
-		address:"C/Martin Machio, 46, Madrid 28002",
-		email: "log@equipsa.es",
-		phone: "(0034) 915191060",
-		fax: "",
-		web_site: "https://equipsa.es/",
-		image: "/images/rep_img/equipsa.jpg"	
-	},
+	// 	disptributer_name: "Carmen Costa",
+	// 	contact: "Equipsa, s.a.",
+	// 	disptributer_territory: "",
+	// 	address:"C/Martin Machio, 46, Madrid 28002",
+	// 	email: "log@equipsa.es",
+	// 	phone: "(0034) 915191060",
+	// 	fax: "",
+	// 	web_site: "https://equipsa.es/",
+	// 	image: "/images/rep_img/equipsa.jpg"	
+	// },
 	{
 		country_name: "Portugal",
 		country_code: "PT",
@@ -1968,66 +1904,66 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
+	// {
+	// 	country_name: "South Africa",
+	// 	country_code: "ZA",
+	// 	service_regions:  ["ZA"],		
+
+	// 	disptributer_name: "Crystal Victor",
+	// 	contact: "Fluorovizion",
+	// 	disptributer_territory: "",
+	// 	address:"808 Hammets Crossing Office Park, Fourways",
+	// 	email: "info@fluorovizion.co.za",
+	// 	phone: "011-462 9553",
+	// 	fax: "",
+	// 	web_site: "https://www.fluorovizion.com/",
+	// 	image: "/images/rep_img/fluorovizion.jpg"	
+	// },
 	{
 		country_name: "South Africa",
 		country_code: "ZA",
 		service_regions:  ["ZA"],		
 
-		disptributer_name: "Crystal Victor",
-		contact: "Fluorovizion",
-		disptributer_territory: "",
-		address:"808 Hammets Crossing Office Park, Fourways",
-		email: "info@fluorovizion.co.za",
-		phone: "011-462 9553",
-		fax: "",
-		web_site: "https://www.fluorovizion.com/",
-		image: "/images/rep_img/fluorovizion.jpg"	
-	},
-	{
-		country_name: "South Africa",
-		country_code: "ZA",
-		service_regions:  ["ZA"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
+	// {
+	// 	country_name: "Thailand",
+	// 	country_code: "TH",
+	// 	service_regions:  ["TH"],		
+
+	// 	disptributer_name: "Suwannee",
+	// 	contact: "Genicon Co. Ltd.",
+	// 	disptributer_territory: "",
+	// 	address:"805 10th Floor Srinakarin Rd, Bangkok 10250",
+	// 	email: "pshospital@yahoo.com",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/genicon.jpg"	
+	// },
 	{
 		country_name: "Thailand",
 		country_code: "TH",
 		service_regions:  ["TH"],		
 
-		disptributer_name: "Suwannee",
-		contact: "Genicon Co. Ltd.",
-		disptributer_territory: "",
-		address:"805 10th Floor Srinakarin Rd, Bangkok 10250",
-		email: "pshospital@yahoo.com",
-		phone: "",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/genicon.jpg"	
-	},
-	{
-		country_name: "Thailand",
-		country_code: "TH",
-		service_regions:  ["TH"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
 	{
@@ -2050,15 +1986,15 @@ window.distributes = [
 		country_code: "TW",
 		service_regions:  ["TW"],		
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
 	{
@@ -2092,21 +2028,21 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
-	{
-		country_name: "Greece",
-		country_code: "GR",
-		service_regions:  ["GR"],		
+	// {
+	// 	country_name: "Greece",
+	// 	country_code: "GR",
+	// 	service_regions:  ["GR"],		
 
-		disptributer_name: "Alexandria Darmi",
-		contact: "L&B Medical Supplies P.C.",
-		disptributer_territory: "",
-		address:"10 Aoou Street, Athens 11523",
-		email: "info@lbmedical.gr",
-		phone: "",
-		fax: "",
-		web_site: "http://lbmedical.gr/",
-		image: "/images/rep_img/lb_med.jpg"	
-	},
+	// 	disptributer_name: "Alexandria Darmi",
+	// 	contact: "L&B Medical Supplies P.C.",
+	// 	disptributer_territory: "",
+	// 	address:"10 Aoou Street, Athens 11523",
+	// 	email: "info@lbmedical.gr",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "http://lbmedical.gr/",
+	// 	image: "/images/rep_img/lb_med.jpg"	
+	// },
 	{
 		country_name: "Greece",
 		country_code: "GR",
@@ -2123,52 +2059,52 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
+	// {
+	// 	country_name: "Australia",
+	// 	country_code: "AU",
+	// 	service_regions:  ["AU"],		
+
+	// 	disptributer_name: "Kerry Lawford",
+	// 	contact: "LMT Surgical",
+	// 	disptributer_territory: "",
+	// 	address:"239 Milton Road, Milton Queensland 4064",
+	// 	email: "kerry@lmtsurgical.com",
+	// 	phone: "61-7-3367-6600",
+	// 	fax: "+61 7 3259 8825",
+	// 	web_site: "https://www.lmtsurgical.com/",
+	// 	image: "/images/rep_img/lmt.jpg"	
+	// },
 	{
 		country_name: "Australia",
 		country_code: "AU",
 		service_regions:  ["AU"],		
 
-		disptributer_name: "Kerry Lawford",
-		contact: "LMT Surgical",
-		disptributer_territory: "",
-		address:"239 Milton Road, Milton Queensland 4064",
-		email: "kerry@lmtsurgical.com",
-		phone: "61-7-3367-6600",
-		fax: "+61 7 3259 8825",
-		web_site: "https://www.lmtsurgical.com/",
-		image: "/images/rep_img/lmt.jpg"	
-	},
-	{
-		country_name: "Australia",
-		country_code: "AU",
-		service_regions:  ["AU"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Norway",
-		country_code: "NO",
-		service_regions:  ["NO"],		
+	// {
+	// 	country_name: "Norway",
+	// 	country_code: "NO",
+	// 	service_regions:  ["NO"],		
 
-		disptributer_name: "Elisabeth Skagestad",
-		contact: "MediStim Norge AS",
-		disptributer_territory: "",
-		address:"Okernveien 94, Oslo 0579",
-		email: "norge@medistim.com",
-		phone: "47 23 03 52 50",
-		fax: "",
-		web_site: "https://medistim.com/",
-		image: "/images/rep_img/medistim.jpg"	
-	},
+	// 	disptributer_name: "Elisabeth Skagestad",
+	// 	contact: "MediStim Norge AS",
+	// 	disptributer_territory: "",
+	// 	address:"Okernveien 94, Oslo 0579",
+	// 	email: "norge@medistim.com",
+	// 	phone: "47 23 03 52 50",
+	// 	fax: "",
+	// 	web_site: "https://medistim.com/",
+	// 	image: "/images/rep_img/medistim.jpg"	
+	// },
 	{
 		country_name: "Norway",
 		country_code: "NO",
@@ -2186,114 +2122,114 @@ window.distributes = [
 	},
 	
 
+	// {
+	// 	country_name: "India",
+	// 	country_code: "IN",
+	// 	service_regions:  ["IN"],		
+
+	// 	disptributer_name: "Adesh Mathur",
+	// 	contact: "Myovatec Surgical Systems pv",
+	// 	disptributer_territory: "",
+	// 	address:"A12/8a Kalkaji Extension, New Delhi 110019",
+	// 	email: "myovatec@gmail.com",
+	// 	phone: "91-011-29985846",
+	// 	fax: "91-011-29981451",
+	// 	web_site: "",
+	// 	image: "/images/rep_image.jpg"	
+	// },
 	{
 		country_name: "India",
 		country_code: "IN",
 		service_regions:  ["IN"],		
 
-		disptributer_name: "Adesh Mathur",
-		contact: "Myovatec Surgical Systems pv",
-		disptributer_territory: "",
-		address:"A12/8a Kalkaji Extension, New Delhi 110019",
-		email: "myovatec@gmail.com",
-		phone: "91-011-29985846",
-		fax: "91-011-29981451",
-		web_site: "",
-		image: "/images/rep_image.jpg"	
-	},
-	{
-		country_name: "India",
-		country_code: "IN",
-		service_regions:  ["IN"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
+	// {
+	// 	country_name: "Vietnam",
+	// 	country_code: "VN",
+	// 	service_regions:  ["VN"],		
+
+	// 	disptributer_name: "Nam Le",
+	// 	contact: "Nam Le Medical Equipment Co.",
+	// 	disptributer_territory: "",
+	// 	address:"No. 24, Truong Son Street, Ward2, Tan Binh District, Ho Chi Minh City 70000",
+	// 	email: "namle@namle.com.vn",
+	// 	phone: "+8428 3547 1688",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/namle.jpg"	
+	// },
 	{
 		country_name: "Vietnam",
 		country_code: "VN",
 		service_regions:  ["VN"],		
 
-		disptributer_name: "Nam Le",
-		contact: "Nam Le Medical Equipment Co.",
-		disptributer_territory: "",
-		address:"No. 24, Truong Son Street, Ward2, Tan Binh District, Ho Chi Minh City 70000",
-		email: "namle@namle.com.vn",
-		phone: "+8428 3547 1688",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/namle.jpg"	
-	},
-	{
-		country_name: "Vietnam",
-		country_code: "VN",
-		service_regions:  ["VN"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
+	// {
+	// 	country_name: "Chile",
+	// 	country_code: "CL",
+	// 	service_regions:  ["CL"],		
+
+	// 	disptributer_name: "Jaime Torres",
+	// 	contact: "Omega Ltda",
+	// 	disptributer_territory: "",
+	// 	address:"Agua Marina 5090, Santiago, Nunoa 11800",
+	// 	email: "jaimetorres@exlmedica.cl",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "http://exlmedica.cl",
+	// 	image: "/images/rep_img/omega_ltda.jpg"	
+	// },
 	{
 		country_name: "Chile",
 		country_code: "CL",
 		service_regions:  ["CL"],		
 
-		disptributer_name: "Jaime Torres",
-		contact: "Omega Ltda",
-		disptributer_territory: "",
-		address:"Agua Marina 5090, Santiago, Nunoa 11800",
-		email: "jaimetorres@exlmedica.cl",
-		phone: "",
-		fax: "",
-		web_site: "http://exlmedica.cl",
-		image: "/images/rep_img/omega_ltda.jpg"	
-	},
-	{
-		country_name: "Chile",
-		country_code: "CL",
-		service_regions:  ["CL"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "France",
-		country_code: "FR",
-		service_regions:  ["FR"],		
+	// {
+	// 	country_name: "France",
+	// 	country_code: "FR",
+	// 	service_regions:  ["FR"],		
 
-		disptributer_name: "Palas Sylvain",
-		contact: "Peters Surgical",
-		disptributer_territory: "",
-		address:"4, rue Albert Einstein, Z. I. Les Vignes, Bobigny 93000",
-		email: "peters@peters-surgical.com",
-		phone: "33 1 48 10 62 62",
-		fax: "33 1 48 91 22 99",
-		web_site: "https://www.peters-surgical.com/en/",
-		image: "/images/rep_img/peters.jpg"	
-	},
+	// 	disptributer_name: "Palas Sylvain",
+	// 	contact: "Peters Surgical",
+	// 	disptributer_territory: "",
+	// 	address:"4, rue Albert Einstein, Z. I. Les Vignes, Bobigny 93000",
+	// 	email: "peters@peters-surgical.com",
+	// 	phone: "33 1 48 10 62 62",
+	// 	fax: "33 1 48 91 22 99",
+	// 	web_site: "https://www.peters-surgical.com/en/",
+	// 	image: "/images/rep_img/peters.jpg"	
+	// },
 	{
 		country_name: "France",
 		country_code: "FR",
@@ -2325,15 +2261,15 @@ window.distributes = [
 		// web_site: "http://www.promeduc.se/",
 		// image: "/images/rep_img/promeduc.jpg"	
 
-		disptributer_name: "Simone Klein",
-		contact: "TapMed Medizintechnik Handels GmbH",
+		disptributer_name: "",
+		contact: "Promeduc Surgical",
 		disptributer_territory: "",
-		address:"Gewerbepark 10, Habichtswald-Ehlen, 34317",
-		email: "info@tapmed.de",
-		phone: "+49 5606-53060-0",
-		fax: "+49 5606-53060-44",
-		web_site: "https://tapmed.de/",
-		image: "/images/rep_img/tap_med.jpg"
+		address:"Rubanksgatan 8, 74171 Knivsta, Sverige",
+		email: "order@promeduc.se",
+		phone: "+46 (0)18.54.54.00",
+		fax: "+46 (0)18.51.50.50",
+		web_site: "https://promeduc.se/",
+		image: "/images/rep_img/promeduc.jpg"
 	},
 	{
 		country_name: "Sweden",
@@ -2351,21 +2287,21 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
-	{
-		country_name: "Netherlands",
-		country_code: "NL",
-		service_regions:  ["NL"],		
+	// {
+	// 	country_name: "Netherlands",
+	// 	country_code: "NL",
+	// 	service_regions:  ["NL"],		
 
-		disptributer_name: "Jaap van der Bijl",
-		contact: "Quamedical",
-		disptributer_territory: "",
-		address:"Linieweg 1, Zuidwolde, 7921 VK",
-		email: "info@quamedical.nl",
-		phone: "",
-		fax: "",
-		web_site: "https://quamedical.nl/",
-		image: "/images/rep_img/quamedical.jpg"	
-	},
+	// 	disptributer_name: "Jaap van der Bijl",
+	// 	contact: "Quamedical",
+	// 	disptributer_territory: "",
+	// 	address:"Linieweg 1, Zuidwolde, 7921 VK",
+	// 	email: "info@quamedical.nl",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "https://quamedical.nl/",
+	// 	image: "/images/rep_img/quamedical.jpg"	
+	// },
 	{
 		country_name: "Netherlands",
 		country_code: "NL",
@@ -2383,21 +2319,21 @@ window.distributes = [
 	},
 
 
-	{
-		country_name: "Poland",
-		country_code: "PL",
-		service_regions:  ["PL"],		
+	// {
+	// 	country_name: "Poland",
+	// 	country_code: "PL",
+	// 	service_regions:  ["PL"],		
 
-		disptributer_name: "Jakub Stawarz",
-		contact: "Ronest",
-		disptributer_territory: "",
-		address:"ul. Krakowska 23, Poznan, 61-893",
-		email: "jakub.stawarz@ronest.pl",
-		phone: "",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/ronest.jpg"	
-	},
+	// 	disptributer_name: "Jakub Stawarz",
+	// 	contact: "Ronest",
+	// 	disptributer_territory: "",
+	// 	address:"ul. Krakowska 23, Poznan, 61-893",
+	// 	email: "jakub.stawarz@ronest.pl",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/ronest.jpg"	
+	// },
 	{
 		country_name: "Poland",
 		country_code: "PL",
@@ -2414,52 +2350,52 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
-	{
-		country_name: "Colombia",
-		country_code: "CO",
-		service_regions:  ["CO"],		
+	// {
+	// 	country_name: "Colombia",
+	// 	country_code: "CO",
+	// 	service_regions:  ["CO"],		
 
-		disptributer_name: "Juliana Urie Arango",
-		contact: "RP Medicas",
-		disptributer_territory: "",
-		address:"Transversal 6 No. 45-135, Patio Bonito, Medellin",
-		email: "anamilenaposada@rpmedicas.co",
-		phone: "",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/medicas.jpg"	
-	},
+	// 	disptributer_name: "Juliana Urie Arango",
+	// 	contact: "RP Medicas",
+	// 	disptributer_territory: "",
+	// 	address:"Transversal 6 No. 45-135, Patio Bonito, Medellin",
+	// 	email: "anamilenaposada@rpmedicas.co",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/medicas.jpg"	
+	// },
 	{
 		country_name: "Colombia",
 		country_code: "CO",
 		service_regions:  ["CO"],
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		image: "/images/rep_img/John_Beahrs.jpg"	
 	},
 
-	{
-		country_name: "United Kingdom",
-		country_code: "GB",
-		service_regions:  ["GB"],		
+	// {
+	// 	country_name: "United Kingdom",
+	// 	country_code: "GB",
+	// 	service_regions:  ["GB"],		
 
-		disptributer_name: "Jamie Atkins",
-		contact: "Severn",
-		disptributer_territory: "",
-		address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
-		email: "jamie.atkins@severnhealthcare.com",
-		phone: "01635887640",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/severn.jpg"	
-	},
+	// 	disptributer_name: "Jamie Atkins",
+	// 	contact: "Severn",
+	// 	disptributer_territory: "",
+	// 	address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
+	// 	email: "jamie.atkins@severnhealthcare.com",
+	// 	phone: "01635887640",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/severn.jpg"	
+	// },
 	{
 		country_name: "United Kingdom",
 		country_code: "GB",
@@ -2476,21 +2412,21 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"
 	},
 
-	{
-		country_name: " Ireland",
-		country_code: "IE",
-		service_regions:  ["IE"],		
+	// {
+	// 	country_name: " Ireland",
+	// 	country_code: "IE",
+	// 	service_regions:  ["IE"],		
 
-		disptributer_name: "Jamie Atkins",
-		contact: "Severn",
-		disptributer_territory: "",
-		address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
-		email: "jamie.atkins@severnhealthcare.com",
-		phone: "01635887640",
-		fax: "",
-		web_site: "",
-		image: "/images/rep_img/severn.jpg"	
-	},
+	// 	disptributer_name: "Jamie Atkins",
+	// 	contact: "Severn",
+	// 	disptributer_territory: "",
+	// 	address:"42 Kingfisher Court, Hambridge Road, Newbury, Berkshire RG14 5SJ",
+	// 	email: "jamie.atkins@severnhealthcare.com",
+	// 	phone: "01635887640",
+	// 	fax: "",
+	// 	web_site: "",
+	// 	image: "/images/rep_img/severn.jpg"	
+	// },
 	{
 		country_name: " Ireland",
 		country_code: "IE",
@@ -2524,21 +2460,21 @@ window.distributes = [
 	},
 
 
-	{
-		country_name: "Germany",
-		country_code: "DE",
-		service_regions:  ["DE"],		
+	// {
+	// 	country_name: "Germany",
+	// 	country_code: "DE",
+	// 	service_regions:  ["DE"],		
 
-		disptributer_name: "Simone Klein",
-		contact: "TapMed Medizintechnik Handels GmbH",
-		disptributer_territory: "",
-		address:"Gewerbepark 10, Habichtswald-Ehlen, 34317",
-		email: "info@tapmed.de",
-		phone: "+49 5606-53060-0",
-		fax: "+49 5606-53060-44",
-		web_site: "https://tapmed.de/",
-		image: "/images/rep_img/tap_med.jpg"	
-	},
+	// 	disptributer_name: "Simone Klein",
+	// 	contact: "TapMed Medizintechnik Handels GmbH",
+	// 	disptributer_territory: "",
+	// 	address:"Gewerbepark 10, Habichtswald-Ehlen, 34317",
+	// 	email: "info@tapmed.de",
+	// 	phone: "+49 5606-53060-0",
+	// 	fax: "+49 5606-53060-44",
+	// 	web_site: "https://tapmed.de/",
+	// 	image: "/images/rep_img/tap_med.jpg"	
+	// },
 	{
 		country_name: "Germany",
 		country_code: "DE",
@@ -2570,21 +2506,21 @@ window.distributes = [
 		web_site: "",
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
-	{
-		country_name: "Belgium",
-		country_code: "BE",
-		service_regions:  ["BE"],		
+	// {
+	// 	country_name: "Belgium",
+	// 	country_code: "BE",
+	// 	service_regions:  ["BE"],		
 
-		disptributer_name: "Jaap van der Bijl",
-		contact: "Quamedical",
-		disptributer_territory: "",
-		address:"Linieweg 1, Zuidwolde, 7921 VK",
-		email: "info@quamedical.nl",
-		phone: "",
-		fax: "",
-		web_site: "https://quamedical.nl/",
-		image: "/images/rep_img/quamedical.jpg"	
-	},
+	// 	disptributer_name: "Jaap van der Bijl",
+	// 	contact: "Quamedical",
+	// 	disptributer_territory: "",
+	// 	address:"Linieweg 1, Zuidwolde, 7921 VK",
+	// 	email: "info@quamedical.nl",
+	// 	phone: "",
+	// 	fax: "",
+	// 	web_site: "https://quamedical.nl/",
+	// 	image: "/images/rep_img/quamedical.jpg"	
+	// },
 
 	{
 		country_name: "Luxembourg",
@@ -2602,52 +2538,52 @@ window.distributes = [
 		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	},
 
+	// {
+	// 	country_name: "Canada",
+	// 	country_code: "CA",
+	// 	service_regions:  ["CA"],		
+
+	// 	disptributer_name: "Peter Oxley",
+	// 	contact: "TSG Medical",
+	// 	disptributer_territory: "",
+	// 	address:"140 Welland Ave Unit 8 St Catharines ON L2N4T5",
+	// 	email: "sales@tsgmedical.com",
+	// 	phone: "(855)563-4077",
+	// 	fax: "(866)489-8079",
+	// 	web_site: "http://tsgmedical.com/",
+	// 	image: "/images/rep_img/tsg_medical.jpg"	
+	// },
 	{
 		country_name: "Canada",
 		country_code: "CA",
 		service_regions:  ["CA"],		
 
-		disptributer_name: "Peter Oxley",
-		contact: "TSG Medical",
-		disptributer_territory: "",
-		address:"140 Welland Ave Unit 8 St Catharines ON L2N4T5",
-		email: "sales@tsgmedical.com",
-		phone: "(855)563-4077",
-		fax: "(866)489-8079",
-		web_site: "http://tsgmedical.com/",
-		image: "/images/rep_img/tsg_medical.jpg"	
-	},
-	{
-		country_name: "Canada",
-		country_code: "CA",
-		service_regions:  ["CA"],		
-
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"	
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Turkey",
-		country_code: "TR",
-		service_regions:  ["TR"],		
+	// {
+	// 	country_name: "Turkey",
+	// 	country_code: "TR",
+	// 	service_regions:  ["TR"],		
 
-		disptributer_name: "Ünaldi Medikal",
-		contact: "",
-		disptributer_territory: "",
-		address:"Maltepe Mahallesi, Edirne Çırpıcı Yolu Sok. Mira Rezidans 5/3 D:6, 34010 Zeytinburnu/İstanbul, Turkey",
-		email: "info@unaldimedikal.com.tr",
-		phone: "+90 212 621 32 71",
-		fax: "",
-		web_site: "https://www.unaldimedikal.com.tr",
-		image: "/images/rep_img/unaldi_medikal.gif"	
-	},
+	// 	disptributer_name: "Ünaldi Medikal",
+	// 	contact: "",
+	// 	disptributer_territory: "",
+	// 	address:"Maltepe Mahallesi, Edirne Çırpıcı Yolu Sok. Mira Rezidans 5/3 D:6, 34010 Zeytinburnu/İstanbul, Turkey",
+	// 	email: "info@unaldimedikal.com.tr",
+	// 	phone: "+90 212 621 32 71",
+	// 	fax: "",
+	// 	web_site: "https://www.unaldimedikal.com.tr",
+	// 	image: "/images/rep_img/unaldi_medikal.gif"	
+	// },
 	{
 		country_name: "Turkey",
 		country_code: "TR",
@@ -2685,32 +2621,32 @@ window.distributes = [
 		country_code: "JP",
 		service_regions:  ["JP"],		
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 
-	{
-		country_name: "Switzerland",
-		country_code: "CH",
-		service_regions:  ["CH"],		
+	// {
+	// 	country_name: "Switzerland",
+	// 	country_code: "CH",
+	// 	service_regions:  ["CH"],		
 
-		disptributer_name: "TapMed",
-		contact: "",
-		disptributer_territory: "",
-		address:"Gumprechtstrasse 33 · 6376 Emmetten",
-		email: "info@tapmed-swiss.ch",
-		phone: "+41 41 520 61 11",
-		fax: "",
-		web_site: "https://www.tapmed.de/",
-		image: "/images/rep_img/tapmed.jpg"	
-	},
+	// 	disptributer_name: "TapMed",
+	// 	contact: "",
+	// 	disptributer_territory: "",
+	// 	address:"Gumprechtstrasse 33 · 6376 Emmetten",
+	// 	email: "info@tapmed-swiss.ch",
+	// 	phone: "+41 41 520 61 11",
+	// 	fax: "",
+	// 	web_site: "https://www.tapmed.de/",
+	// 	image: "/images/rep_img/tapmed.jpg"	
+	// },
 	{
 		country_name: "Switzerland",
 		country_code: "CH",
@@ -2732,31 +2668,260 @@ window.distributes = [
 		country_code: "MY",
 		service_regions:  ["MY"],		
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
 	},
 	{
 		country_name: "Korea",
 		country_code: "KR",
 		service_regions:  ["KR"],		
 
-		disptributer_name: "Terry Harrell",
+		disptributer_name: "John Beahrs",
 		contact: "Director of Sales",
 		disptributer_territory: "",
 		address: "439 Industrial Lane, Birmingham, AL 35211",
-		email: "Terry_Harrell@Baxter.com",
-		phone: "205.314.3171",
+		email: "john_beahrs@baxter.com",
+		phone: "317.376.5725",
 		fax: "205.941.1522",
 		web_site: "",
-		image: "/images/rep_img/Terry-Harrell.jpg"
+		image: "/images/rep_img/John_Beahrs.jpg"
+	},
+  
+  // Added 2024.02.07	
+	
+	{
+		country_name: "Albania",
+		country_code: "AL",
+		service_regions:  ["AL"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Estonia",
+		country_code: "EE",
+		service_regions:  ["EE"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Lithuania",
+		country_code: "LT",
+		service_regions:  ["LT"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Latvia",
+		country_code: "LV",
+		service_regions:  ["LV"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Hungary",
+		country_code: "HU",
+		service_regions:  ["HU"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Czech Republic",
+		country_code: "CZ",
+		service_regions:  ["CZ"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Slovakia",
+		country_code: "SK",
+		service_regions:  ["SK"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Romania",
+		country_code: "RO",
+		service_regions:  ["RO"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Bulgaria",
+		country_code: "BG",
+		service_regions:  ["BG"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},	
+		{
+		country_name: "Slovenia",
+		country_code: "SI",
+		service_regions:  ["SI"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Croatia",
+		country_code: "HR",
+		service_regions:  ["HR"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Bosnia",
+		country_code: "BA",
+		service_regions:  ["BA"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Serbia",
+		country_code: "RS",
+		service_regions:  ["RS"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Montenegro",
+		country_code: "ME",
+		service_regions:  ["ME"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
+	},
+		{
+		country_name: "Macedonia",
+		country_code: "MK",
+		service_regions:  ["MK"],		
+
+		disptributer_name: "JÃ¼rg Pfeiffer",
+		contact: "CE Sales Manager",
+		disptributer_territory: "",
+		address: "",
+		email: "jurg_pfeiffer@baxter.com",
+		phone: "+41.79.246.93.16",
+		fax: "",
+		web_site: "",
+		image: "/images/rep_img/Jurg-Pfeiffer.jpg"	
 	}
+
 
 
 	

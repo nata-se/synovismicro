@@ -147,6 +147,8 @@ function processMap() {
       }
     }
 
+    
+
     jQuery('#world-map path').click(function(e){
       console.log(jQuery(this).attr('data-code'));
     });
@@ -330,4 +332,14 @@ function processMap() {
 
     return showDistributers(code);
   }
+  jQuery(document).on('click', function(event) {
+    // Check if the click is outside the distributor info box
+    if (!jQuery(event.target).closest('#distributer-info').length && 
+        !jQuery(event.target).closest('.jvectormap-region').length &&
+        !jQuery(event.target).closest('.jvectormap-container').length) {
+          
+      jQuery('#distributer-info').empty(); // Close distributor popup
+    }
+  });
+
 }
